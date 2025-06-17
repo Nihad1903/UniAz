@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniAz - Haqqımızda</title>
+    <link rel="stylesheet" href="{% static 'app.css' %}">
+</head>
+
+<body>
+    <div class="bg-container"></div>
+    <div class="bg-overlay"></div>
+    {% include 'nav.html' %}
+    <main>
+        <div class="container">
+            <!-- Hero Section -->
+            <section class="hero-section">
+                <h1 class="hero-title">🎓 UniAz Haqqında</h1>
+            </section>
+
+            <!-- About Section -->
+            <section class="about-section">
+                <h2 class="section-title">🌟 Bizim Missiyamız</h2>
+                <p class="content-text">
+                    "Bu sistemin mahiyyəti ondan ibarətdir ki, abituriyentin cari ildə topladığı bala əsaslanaraq, əvvəlki ilin qəbul statistikası ilə müqayisəli təhlil aparılır və nəticədə potensial qəbul oluna biləcək ali təhsil müəssisələri avtomatlaşdırılmış şəkildə təqdim edilir. Qeyd etmək lazımdır ki, universitetlərə qəbul prosesi Dövlət İmtahan Mərkəzi (DİM) tərəfindən, yalnız cari ildə abituriyentin topladığı bala əsasən həyata keçirilir. Bu səbəbdən sistemin verdiyi nəticələrdə müəyyən uyğunsuzluq və ya yanlışlıq ehtimalı mövcuddur."
+                </p>
+            </section>
+
+            <!-- Features Section -->
+            <section class="about-section">
+                <h2 class="section-title">🚀 Nə Təklif Edirik</h2>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">🤖</div>
+                        <h3 class="feature-title">AI Məsləhətçi</h3>
+                        <p class="feature-desc">Süni intellekt əsaslı chatbot sizə 24/7 dəstək göstərir.</p>
+                    </div>
+                    
+                   
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h3 class="feature-title">Bal Hesablama</h3>
+                        <p class="feature-desc">Abituriyentin cari ildə topladığı bala əsasən, ötən ilin qəbul statistikası ilə müqayisəli təhlil aparılaraq potensial qəbul oluna biləcək ali təhsil müəssisələri müəyyən edilir.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">🏛️</div>
+                        <h3 class="feature-title">Universitet Bazası</h3>
+                        <p class="feature-desc">Azərbaycanın bütün universitetləri haqqında ətraflı və aktual məlumatlar.</p>
+                    </div>
+                </div>
+            </section>
+            <section class="team-section">
+                <h2 class="section-title">👥 Bizim Komanda</h2>
+                <div class="team-grid" >
+                    <div class="team-card">
+                        <div class="team-avatar">👨‍💼</div>
+                        <a href="https://www.linkedin.com/in/nihad-taghiyev/" 
+                        style="user-select: none; 
+                                -webkit-user-select: none; 
+                                -moz-user-select: none; 
+                                -ms-user-select: none; 
+                                -webkit-tap-highlight-color: transparent; 
+                                text-decoration: none; 
+                                color: inherit;">
+                        Nihad Tağıyev
+                        </a>
+                        <p class="team-role">Back-End developer</p>
+                    </div>
+                    <div class="team-card">
+                        <div class="team-avatar">👨‍🎓</div>
+                        <a href="https://www.linkedin.com/in/sadiq-aslanl%C4%B1-296634329/" 
+                            style="user-select: none; 
+                                    -webkit-user-select: none; 
+                                    -moz-user-select: none; 
+                                    -ms-user-select: none; 
+                                    -webkit-tap-highlight-color: transparent; 
+                                    text-decoration: none; 
+                                    color: inherit;">
+                            Sadiq Aslanlı
+                            </a>
+                        <p class="team-role">Front-End developer</p>
+                    </div>                   
+                </div>
+            </section>
+
+            <!-- CTA Section -->
+            <section class="cta-section">
+                <div class="cta-content">
+                    <h2 class="cta-title">🎯 Gələcəyinizi Planlayın</h2>
+                    <p class="cta-text">UniAz ilə düzgün universitet seçimi edin və karyeranızın təməlini möhkəm qoyun!</p>
+                    <a href="{% url 'home' %}" class="cta-button">İndi Başlayın</a>
+                </div>
+            </section>
+        </div>
+    </main>
+    {% include 'footer.html' %}
+</body>
+</html>

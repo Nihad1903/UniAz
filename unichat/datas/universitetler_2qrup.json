@@ -1,0 +1,2888 @@
+{
+  "Bakı Dövlət Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 342.3,
+      "odenisli_bali": 342.3
+    },
+    {
+      "ixtisas": "Sosiologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.1,
+      "odenisli_bali": 331.1
+    },
+    {
+      "ixtisas": "Sosiologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 337.2,
+      "odenisli_bali": 337.2
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 293.8,
+      "odenisli_bali": 396.1
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 307.4,
+      "odenisli_bali": 506.6
+    },
+    {
+      "ixtisas": "Davamlı inkişafın idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 305.8,
+      "odenisli_bali": 360.0
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 393.7,
+      "odenisli_bali": 407.4
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 93.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 429.5,
+      "odenisli_bali": 429.5
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 353.5,
+      "odenisli_bali": 459.0
+    },
+    {
+      "ixtisas": "Maliyyə (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 459.9,
+      "odenisli_bali": 459.9
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 270.8,
+      "odenisli_bali": 390.9
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Statistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 341.6,
+      "odenisli_bali": 341.6
+    },
+    {
+      "ixtisas": "Coğrafiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 306.7,
+      "odenisli_bali": 306.7
+    },
+    {
+      "ixtisas": "Hidrometeorologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 298.6
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.6,
+      "odenisli_bali": 331.6
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 341.6,
+      "odenisli_bali": 341.6
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 311.3
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 167.8,
+      "odenisli_bali": 289.4
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (Qazax filialı)",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.6,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Dövlət Neft və Sənaye Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 291.0,
+      "odenisli_bali": 396.0
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 291.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 320.0,
+      "odenisli_bali": 475.0
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.1,
+      "odenisli_bali": 408.8
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 433.5,
+      "odenisli_bali": 433.5
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 282.5,
+      "odenisli_bali": 362.6
+    },
+    {
+      "ixtisas": "Marketinq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 332.0,
+      "odenisli_bali": 361.3
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 254.0,
+      "odenisli_bali": 392.9
+    },
+    {
+      "ixtisas": "Menecment (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 301.0,
+      "odenisli_bali": 394.7
+    }
+  ],
+  "Azərbaycan Texniki Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 272.2,
+      "odenisli_bali": 396.0,
+      "subbakalavr": {
+        "odenissiz": 73.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 265.8,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 223.3,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 264.9,
+      "odenisli_bali": 407.4
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 94.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 495.3
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 278.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Maliyyə  (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 621.9
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 263.2,
+      "odenisli_bali": 362.1
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 209.1,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 232.8,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 93.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Statistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 338.8,
+      "subbakalavr": {
+        "odenissiz": 95.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Statistika",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 275.5,
+      "odenisli_bali": 294.5
+    }
+  ],
+  "Azərbaycan Memarlıq və İnşaat Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 260.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 207.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Davamlı inkişafın idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 360.3,
+      "subbakalavr": {
+        "odenissiz": 68.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 255.3,
+      "odenisli_bali": 423.0
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 93.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.9,
+      "odenisli_bali": 360.9
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 204.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 291.2,
+      "odenisli_bali": 364.1
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 400.0,
+      "subbakalavr": {
+        "odenissiz": 93.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.3,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Dövlət Pedaqoji Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 290.2,
+      "odenisli_bali": 327.7
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 366.7,
+      "odenisli_bali": 366.7
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 324.8
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi (Şamaxı filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 241.1,
+      "odenisli_bali": 308.6
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi (Şəki filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 252.4,
+      "odenisli_bali": 308.1
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi (Cəlilabad filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 204.4,
+      "odenisli_bali": 308.8
+    },
+    {
+      "ixtisas": "Coğrafiya müəllimliyi (Quba filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 243.6,
+      "odenisli_bali": 356.9
+    }
+  ],
+  "Azərbaycan Dövlət İqtisad Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 302.1,
+      "odenisli_bali": 395.8
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 405.5,
+      "odenisli_bali": 405.5
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 73.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika  (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 573.8,
+      "odenisli_bali": 573.8
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 301.4,
+      "odenisli_bali": 475.0
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 350.7,
+      "odenisli_bali": 473.4
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 232.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 610.2,
+      "odenisli_bali": 610.2
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi  (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 276.9,
+      "odenisli_bali": 360.8
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 361.2,
+      "odenisli_bali": 361.2
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 413.0,
+      "odenisli_bali": 413.0
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 440.5,
+      "odenisli_bali": 440.5
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 96.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 624.3,
+      "odenisli_bali": 624.3
+    },
+    {
+      "ixtisas": "Maliyyə (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 478.4,
+      "odenisli_bali": 478.4
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 527.1,
+      "odenisli_bali": 527.1
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 532.9,
+      "subbakalavr": {
+        "odenissiz": 96.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 636.7,
+      "odenisli_bali": 636.7
+    },
+    {
+      "ixtisas": "Marketinq (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 350.1,
+      "odenisli_bali": 361.1
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 379.1,
+      "odenisli_bali": 379.1
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 230.3,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 327.3,
+      "odenisli_bali": 389.3
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 94.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris türk dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 378.9,
+      "odenisli_bali": 378.9
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 421.2,
+      "odenisli_bali": 421.2
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 374.5,
+      "subbakalavr": {
+        "odenissiz": 94.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 597.0,
+      "odenisli_bali": 597.0
+    },
+    {
+      "ixtisas": "Statistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 351.5,
+      "odenisli_bali": 351.5
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 178.4,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 66.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 432.4,
+      "subbakalavr": {
+        "odenissiz": 70.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 70.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 170.8,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 69.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 385.2,
+      "subbakalavr": {
+        "odenissiz": 68.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 157.4,
+      "odenisli_bali": 278.5
+    }
+  ],
+  "Bakı Mühəndislik Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 398.5,
+      "subbakalavr": {
+        "odenissiz": 67.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 68.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.3,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 181.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 277.9,
+      "odenisli_bali": 481.1
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 330.6,
+      "subbakalavr": {
+        "odenissiz": 88.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 385.0,
+      "subbakalavr": {
+        "odenissiz": 76.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 410.0,
+      "subbakalavr": {
+        "odenissiz": 89.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 410.1
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 475.4,
+      "subbakalavr": {
+        "odenissiz": 86.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 258.4,
+      "odenisli_bali": 459.3
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 244.3,
+      "odenisli_bali": 361.7
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 244.3,
+      "odenisli_bali": 361.7,
+      "subbakalavr": {
+        "odenissiz": 90.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 348.6,
+      "odenisli_bali": 348.6
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 84.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 326.3,
+      "odenisli_bali": 351.1
+    },
+    {
+      "ixtisas": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 291.3,
+      "subbakalavr": {
+        "odenissiz": 74.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 81.7,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası": [
+    {
+      "ixtisas": "Davamlı inkişafın idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 397.7,
+      "odenisli_bali": 397.7
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 410.3,
+      "odenisli_bali": 410.3
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 522.2,
+      "odenisli_bali": 522.2
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 403.0,
+      "odenisli_bali": 403.0
+    }
+  ],
+  "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti": [
+    {
+      "ixtisas": "Sosiologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 306.1
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 271.6,
+      "odenisli_bali": 271.6
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 285.6,
+      "odenisli_bali": 285.6,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Turizm və Menecment Universiteti": [
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 60.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 231.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 283.1,
+      "odenisli_bali": 283.1
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 181.5,
+      "odenisli_bali": 273.8
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 291.6,
+      "odenisli_bali": 291.6
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 190.2,
+      "odenisli_bali": 274.0
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 301.7,
+      "odenisli_bali": 301.7
+    }
+  ],
+  "Azərbaycan İdman Akademiyası": [
+    {
+      "ixtisas": "İdman menecmenti və kommunikasiya  (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 258.8
+    },
+    {
+      "ixtisas": "İdman menecmenti və kommunikasiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 258.6,
+      "subbakalavr": {
+        "odenissiz": 93.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İdman menecmenti və kommunikasiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 265.6,
+      "subbakalavr": {
+        "odenissiz": 93.7,
+        "odenisli": null
+      }
+    }
+  ],
+  "Milli Aviasiya Akademiyası": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 248.1,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 407.3,
+      "subbakalavr": {
+        "odenissiz": 84.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 256.6,
+      "odenisli_bali": 461.1
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 389.7,
+      "subbakalavr": {
+        "odenissiz": 72.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Hidrometeorologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 300.1
+    }
+  ],
+  "Bakı Ali Neft Məktəbi": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 653.4,
+      "odenisli_bali": 653.4
+    }
+  ],
+  "Dövlət Gömrük Komitəsinin Akademiyası": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 432.1,
+      "odenisli_bali": 432.1
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 466.8,
+      "odenisli_bali": 466.8
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 443.6,
+      "odenisli_bali": 443.6
+    }
+  ],
+  "Naxçıvan Dövlət Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 292.4,
+      "odenisli_bali": 397.1
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 260.9,
+      "odenisli_bali": 365.5
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 345.1,
+      "odenisli_bali": 408.8
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 440.7,
+      "odenisli_bali": 440.7
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 358.9,
+      "odenisli_bali": 463.5
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 252.6,
+      "odenisli_bali": 368.5
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 230.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 351.2,
+      "odenisli_bali": 351.2
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Coğrafiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 308.1,
+      "odenisli_bali": 308.1
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 251.8,
+      "odenisli_bali": 276.0
+    }
+  ],
+  "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 221.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 413.0,
+      "subbakalavr": {
+        "odenissiz": 90.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 279.5,
+      "odenisli_bali": 410.9
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 457.3,
+      "subbakalavr": {
+        "odenissiz": 84.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 194.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment (alman proqramı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 400.9,
+      "subbakalavr": {
+        "odenissiz": 65.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 349.6,
+      "subbakalavr": {
+        "odenissiz": 73.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 357.0
+    }
+  ],
+  "Gəncə Dövlət Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 264.8,
+      "odenisli_bali": 351.7
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 290.8,
+      "odenisli_bali": 308.2
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 215.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 197.7,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 77.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 85.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 85.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 193.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 177.3,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 81.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 403.6,
+      "subbakalavr": {
+        "odenissiz": 83.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 177.9,
+      "odenisli_bali": 268.8
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 94.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 188.0,
+      "odenisli_bali": 275.0
+    }
+  ],
+  "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 199.7,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 84.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 82.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat  (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 155.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 185.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 69.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 77.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 166.9,
+      "odenisli_bali": 332.9
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 171.5,
+      "odenisli_bali": 276.1
+    }
+  ],
+  "Sumqayıt Dövlət Universiteti": [
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 316.2,
+      "odenisli_bali": 316.2
+    },
+    {
+      "ixtisas": "Sosiologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 308.9
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 71.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 248.8,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 220.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 245.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 243.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 204.0,
+      "odenisli_bali": 361.4
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 348.5,
+      "subbakalavr": {
+        "odenissiz": 93.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 290.7,
+      "odenisli_bali": 290.7
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 197.4,
+      "odenisli_bali": 277.9
+    }
+  ],
+  "Mingəçevir Dövlət Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 205.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 171.6,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 429.2,
+      "subbakalavr": {
+        "odenissiz": 77.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 475.6,
+      "subbakalavr": {
+        "odenissiz": 77.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 183.1,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 153.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 70.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 357.8,
+      "subbakalavr": {
+        "odenissiz": 72.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 156.3,
+      "odenisli_bali": 267.9
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 165.6,
+      "odenisli_bali": 277.6,
+      "subbakalavr": {
+        "odenissiz": 96.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Lənkəran Dövlət Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 335.7
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 218.1,
+      "odenisli_bali": 307.9
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 205.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 163.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 373.2,
+      "subbakalavr": {
+        "odenissiz": 63.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 421.0,
+      "subbakalavr": {
+        "odenissiz": 72.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 466.5,
+      "subbakalavr": {
+        "odenissiz": 69.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 184.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 66.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 83.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 348.4,
+      "subbakalavr": {
+        "odenissiz": 60.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 164.6,
+      "odenisli_bali": 269.1
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 172.1,
+      "odenisli_bali": 278.5,
+      "subbakalavr": {
+        "odenissiz": 91.8,
+        "odenisli": null
+      }
+    }
+  ],
+  "Qarabağ Unversiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 382.7,
+      "odenisli_bali": 382.7
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 335.7,
+      "odenisli_bali": 335.7
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 441.8,
+      "odenisli_bali": 441.8
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 500.5,
+      "odenisli_bali": 500.5
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 355.7,
+      "odenisli_bali": 355.7
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 375.8,
+      "odenisli_bali": 375.8
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 275.0,
+      "odenisli_bali": 275.0,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Kooperasiya Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 191.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 71.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 79.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 74.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 181.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 161.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 74.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 73.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 176.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 153.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 178.0,
+      "odenisli_bali": 274.8,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "“Azərbaycan ” Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 233.1,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 187.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 83.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 420.2,
+      "subbakalavr": {
+        "odenissiz": 83.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 79.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 214.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 170.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 76.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 181.9,
+      "odenisli_bali": 273.9
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 156.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 209.8,
+      "odenisli_bali": null
+    }
+  ],
+  "Qərbi Kaspi Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 207.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 195.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 66.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 70.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 85.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 69.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 85.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 185.5,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 81.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 69.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 84.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm bələdçiliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 166.3,
+      "odenisli_bali": 268.5
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 274.0,
+      "subbakalavr": {
+        "odenissiz": 89.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 157.4,
+      "odenisli_bali": 274.4
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 94.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Xəzər Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 328.0
+    },
+    {
+      "ixtisas": "Tarix və coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 339.8,
+      "odenisli_bali": 339.8
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 246.4,
+      "odenisli_bali": 486.9
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 416.1,
+      "odenisli_bali": 416.1
+    },
+    {
+      "ixtisas": "Maliyyə (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 457.4,
+      "subbakalavr": {
+        "odenissiz": 81.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 217.1,
+      "odenisli_bali": 368.9
+    },
+    {
+      "ixtisas": "Menecment (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 438.5,
+      "subbakalavr": {
+        "odenissiz": 72.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 348.3,
+      "subbakalavr": {
+        "odenissiz": 70.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 276.7,
+      "odenisli_bali": 276.7
+    }
+  ],
+  "Bakı Avrasiya Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 214.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 178.1,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 218.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 68.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 77.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 75.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 198.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 173.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 72.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 72.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 194.2,
+      "odenisli_bali": 274.9
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 167.9,
+      "odenisli_bali": null
+    }
+  ],
+  "Bakı Qızlar Universiteti": [
+    {
+      "ixtisas": "Coğrafiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    }
+  ],
+  "“Odlar Yurdu ” Universiteti": [
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 174.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 233.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 227.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 72.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 95.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 94.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 60.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 96.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 164.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 199.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 209.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 85.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 161.9,
+      "odenisli_bali": 303.6
+    },
+    {
+      "ixtisas": "Turizm işinin təşkili",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 196.4,
+      "odenisli_bali": 274.1
+    }
+  ],
+  "Bakı Biznes Universiteti": [
+    {
+      "ixtisas": "Beynəlxalq ticarət və logistika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 216.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biznesin idarə edilməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 198.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 71.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Dövlət və bələdiyyə idarəetməsi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 83.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 81.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 78.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 79.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 197.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 179.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 77.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Menecment",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 307.1,
+      "subbakalavr": {
+        "odenissiz": 75.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 83.4,
+        "odenisli": null
+      }
+    }
+  ],
+  "Azərbaycan Əmək və Sosial Münasibətlər Akademiyası": [
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İqtisadiyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maliyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 74.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 196.6,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Marketinq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 171.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mühasibat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 72.7,
+        "odenisli": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "Bakı Dövlət Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 389.3,
+      "odenisli_bali": 389.3
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 415.8,
+      "odenisli_bali": 416.3
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 497.9,
+      "odenisli_bali": 497.9
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 376.1,
+      "odenisli_bali": 469.4
+    },
+    {
+      "ixtisas": "Psixologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 551.9,
+      "odenisli_bali": 551.9
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 458.1,
+      "odenisli_bali": 468.1
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 307.7,
+      "odenisli_bali": 318.5
+    },
+    {
+      "ixtisas": "Biologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 492.6,
+      "odenisli_bali": 492.6
+    },
+    {
+      "ixtisas": "Biotexnologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 472.1,
+      "odenisli_bali": 504.9
+    },
+    {
+      "ixtisas": "Biotexnologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 532.7,
+      "odenisli_bali": 532.7
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 293.5,
+      "odenisli_bali": 295.4
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 224.5,
+      "odenisli_bali": 254.9
+    },
+    {
+      "ixtisas": "Ekologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 351.9,
+      "odenisli_bali": 351.9
+    },
+    {
+      "ixtisas": "Kimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 452.7,
+      "odenisli_bali": 452.7
+    },
+    {
+      "ixtisas": "Kimya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 522.1,
+      "odenisli_bali": 522.1
+    },
+    {
+      "ixtisas": "Bitki mühafizəsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 252.6,
+      "odenisli_bali": 252.6
+    },
+    {
+      "ixtisas": "Su bioehtiyatları və akvakultura",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 249.3,
+      "odenisli_bali": 249.3
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 442.5
+    }
+  ],
+  "Azərbaycan Tibb Universiteti": [
+    {
+      "ixtisas": "Əczaçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 540.5,
+      "odenisli_bali": 540.5
+    },
+    {
+      "ixtisas": "Fizioterapiya və tibbi reabilitasiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 573.8,
+      "odenisli_bali": 582.2
+    },
+    {
+      "ixtisas": "Tibb bacısı işi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 501.4,
+      "odenisli_bali": 501.8
+    },
+    {
+      "ixtisas": "İctimai səhiyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 563.2,
+      "odenisli_bali": 563.2
+    },
+    {
+      "ixtisas": "Stomatologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 589.4,
+      "odenisli_bali": 589.4
+    },
+    {
+      "ixtisas": "Tibb",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 605.1,
+      "odenisli_bali": 605.1
+    },
+    {
+      "ixtisas": "Tibb (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 681.4,
+      "odenisli_bali": 681.4
+    }
+  ],
+  "Azərbaycan Dövlət Pedaqoji Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 345.3
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 362.1
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 370.5,
+      "odenisli_bali": 370.5
+    }
+  ],
+  "Azərbaycan Dövlət İqtisad Universiteti": [
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 273.9,
+      "odenisli_bali": 278.4
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 211.6,
+      "odenisli_bali": null
+    }
+  ],
+  "Bakı Slavyan Universiteti": [
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 440.1,
+      "odenisli_bali": 453.2
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    }
+  ],
+  "Bakı Mühəndislik Universiteti": [
+    {
+      "ixtisas": "Biotexnologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 369.5,
+      "odenisli_bali": 504.8
+    },
+    {
+      "ixtisas": "Kimya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 442.8,
+      "odenisli_bali": 142.8
+    }
+  ],
+  "Azərbaycan İdman Akademiyası": [
+    {
+      "ixtisas": "Bədən tərbiyəsi və idmanda reabilitasiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 364.2,
+      "odenisli_bali": 398.0
+    }
+  ],
+  "Naxçıvan Dövlət Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 404.0
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 264.0,
+      "odenisli_bali": 365.2
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 394.0,
+      "odenisli_bali": 459.4
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 322.4,
+      "odenisli_bali": 322.4
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 414.5
+    },
+    {
+      "ixtisas": "Baytarlıq təbabəti",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 227.5,
+      "subbakalavr": {
+        "odenissiz": 73.4,
+        "odenisli": 73.4
+      }
+    },
+    {
+      "ixtisas": "Əczaçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 507.3,
+      "odenisli_bali": 507.3
+    },
+    {
+      "ixtisas": "Tibb bacısı işi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 392.1,
+      "odenisli_bali": 503.3
+    },
+    {
+      "ixtisas": "İctimai səhiyyə",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 545.4,
+      "odenisli_bali": 545.4
+    },
+    {
+      "ixtisas": "Stomatologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 569.0,
+      "odenisli_bali": 569.0
+    },
+    {
+      "ixtisas": "Tibb",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 573.4,
+      "odenisli_bali": 577.4
+    },
+    {
+      "ixtisas": "Tibb (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 579.6,
+      "odenisli_bali": 579.6
+    }
+  ],
+  "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 579.6,
+      "odenisli_bali": 579.6,
+      "subbakalavr": {
+        "odenissiz": 89.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 89.9,
+        "odenisli": 89.9
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.0,
+        "odenisli": 92.3
+      }
+    },
+    {
+      "ixtisas": "Bağçılıq və tərəvəzçilik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 189.0,
+      "subbakalavr": {
+        "odenissiz": 83.8,
+        "odenisli": 83.8
+      }
+    },
+    {
+      "ixtisas": "Bağçılıq və tərəvəzçilik",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 156.0,
+      "subbakalavr": {
+        "odenissiz": 91.3,
+        "odenisli": 91.3
+      }
+    },
+    {
+      "ixtisas": "Baytarlıq təbabəti",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 159.3,
+      "subbakalavr": {
+        "odenissiz": 81.0,
+        "odenisli": 81.0
+      }
+    },
+    {
+      "ixtisas": "Baytarlıq təbabəti (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 266.5,
+      "odenisli_bali": 266.5
+    },
+    {
+      "ixtisas": "Bitki mühafizəsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 183.2,
+      "subbakalavr": {
+        "odenissiz": 88.9,
+        "odenisli": 88.9
+      }
+    },
+    {
+      "ixtisas": "Su bioehtiyatları və akvakultura",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 155.6
+    },
+    {
+      "ixtisas": "Əczaçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 230.7,
+      "subbakalavr": {
+        "odenissiz": 85.3,
+        "odenisli": 88.2
+      }
+    }
+  ],
+  "Gəncə Dövlət Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 394.0
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 337.5
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 336.1
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 319.9,
+      "odenisli_bali": 319.9
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 191.1,
+      "odenisli_bali": 273.2
+    },
+    {
+      "ixtisas": "Kimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    }
+  ],
+  "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 436.7,
+      "subbakalavr": {
+        "odenissiz": 92.3,
+        "odenisli": 92.5
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 263.5,
+      "subbakalavr": {
+        "odenissiz": 86.2,
+        "odenisli": 88.2
+      }
+    }
+  ],
+  "Sumqayıt Dövlət Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 376.4
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 336.2
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 304.0,
+      "odenisli_bali": 462.5
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 307.3,
+      "subbakalavr": {
+        "odenissiz": 90.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 247.2,
+      "odenisli_bali": 251.5
+    },
+    {
+      "ixtisas": "Kimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 397.6
+    }
+  ],
+  "Mingəçevir Dövlət Universiteti": [
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Kimya və biologiya muəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 355.4
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 298.5,
+      "subbakalavr": {
+        "odenissiz": 86.8,
+        "odenisli": 88.5
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.4,
+        "odenisli": 91.5
+      }
+    }
+  ],
+  "Lənkəran Dövlət Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 358.1
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 457.7
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 335.2
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 278.9,
+      "subbakalavr": {
+        "odenissiz": 83.5,
+        "odenisli": 88.9
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.0,
+        "odenisli": 91.0
+      }
+    },
+    {
+      "ixtisas": "Bağçılıq və tərəvəzçilik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 151.4,
+      "subbakalavr": {
+        "odenissiz": 78.0,
+        "odenisli": 78.0
+      }
+    },
+    {
+      "ixtisas": "Baytarlıq təbabəti",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 184.6,
+      "subbakalavr": {
+        "odenissiz": 79.1,
+        "odenisli": 79.1
+      }
+    }
+  ],
+  "Qarabağ Universiteti": [
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 425.3,
+      "odenisli_bali": 425.3
+    }
+  ],
+  "Azərbaycan Kooperasiya Universiteti": [
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 153.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 92.9,
+        "odenisli": 92.9
+      }
+    }
+  ],
+  "Qərbi Kaspi Universiteti": [
+    {
+      "ixtisas": "Psixologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 292.4,
+      "odenisli_bali": 456.6
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 462.3
+    },
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Biologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 330.7,
+      "subbakalavr": {
+        "odenissiz": 84.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 310.5,
+      "subbakalavr": {
+        "odenissiz": 90.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 211.0,
+      "odenisli_bali": 219.7,
+      "subbakalavr": {
+        "odenissiz": 91.2,
+        "odenisli": 91.7
+      }
+    },
+    {
+      "ixtisas": "Su bioehtiyatları və akvakultura",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 188.2,
+      "odenisli_bali": 205.3
+    }
+  ],
+  "Xəzər Universiteti": [
+    {
+      "ixtisas": "Biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 346.8
+    },
+    {
+      "ixtisas": "Kimya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 381.2
+    },
+    {
+      "ixtisas": "Kimya və biologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 355.2,
+      "odenisli_bali": 355.2
+    },
+    {
+      "ixtisas": "Psixologiya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 496.3,
+      "odenisli_bali": 496.3
+    },
+    {
+      "ixtisas": "Baytarlıq təbabəti",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 246.5,
+      "odenisli_bali": 246.5
+    }
+  ],
+  "Bakı Qızlar Universiteti": [
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    }
+  ],
+  "“Odlar Yurdu ” Universiteti": [
+    {
+      "ixtisas": "Psixologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 463.4
+    },
+    {
+      "ixtisas": "Biologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 308.1,
+      "subbakalavr": {
+        "odenissiz": 89.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 93.3,
+        "odenisli": 97.0
+      }
+    },
+    {
+      "ixtisas": "Ekologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 234.3,
+      "odenisli_bali": 238.8
+    }
+  ]
+}

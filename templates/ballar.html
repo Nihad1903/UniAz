@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniChat - Ağıllı Təhsil Platforması</title>
+    <link rel="stylesheet" href="{% static 'app.css' %}">
+</head>
+
+<body>
+    <div class="bg-container"></div>
+    <div class="bg-overlay"></div>
+    {% include 'nav.html' %}
+    <main>
+        <div class="university-card">
+            <h3>Ümumi Balınız</h3>
+            <p>{{ total }}</p>
+    </div>
+        <div class="container">
+            <section class="university-section">
+                <h2 class="section-title">🏛️ Universitetlər</h2>
+                <div class="university-grid">
+                    {% for card in result %}
+                    <div class="university-card">
+                        <div class="university-logo">🏫</div>
+                        <h3>{{ card.universitet }}</h3>
+                        <p>{{ card.ixtisas }}</p>
+                        <p>Tədris metodu: {{ card.eyani_qiyabi }}</p>
+                        {% if total >= card.odenissiz %}
+                        <p>Ödənişli: {{ card.odenissiz }}✅</p>
+                        {% else %}
+                        <p>Ödənişli: {{ card.odenissiz }}❌</p>
+                        {% endif %}
+                        {% if total >= card.odenisli %}
+                        <p>Ödənişsiz: {{ card.odenisli }}✅</p>
+                        {% else %}
+                        <p>Ödənişsiz: {{ card.odenisli }}❌</p>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+
+                </div>
+            </section>
+        </div>
+    </main>
+    {% include 'footer.html' %}
+</body>
+</html>

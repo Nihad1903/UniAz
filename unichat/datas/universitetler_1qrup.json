@@ -1,0 +1,3168 @@
+{
+  "Bakı Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 387.2,
+      "odenisli_bali": 387.2
+    },
+    {
+      "ixtisas": "Fizika müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 427.4,
+      "odenisli_bali": 427.4
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 307.3,
+      "odenisli_bali": 307.3
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 544.7,
+      "odenisli_bali": 544.7
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 629.7,
+      "odenisli_bali": 629.7
+    },
+    {
+      "ixtisas": "Fizika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 312.3,
+      "odenisli_bali": 312.3
+    },
+    {
+      "ixtisas": "Fizika (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 333.7,
+      "odenisli_bali": 333.7
+    },
+    {
+      "ixtisas": "Geologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 223.3
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 414.8,
+      "odenisli_bali": 414.8
+    },
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 525.1,
+      "odenisli_bali": 525.1
+    },
+    {
+      "ixtisas": "Mexanika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 285.4
+    },
+    {
+      "ixtisas": "Riyaziyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 422.8,
+      "odenisli_bali": 422.8
+    },
+    {
+      "ixtisas": "Riyaziyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 513.9,
+      "odenisli_bali": 513.9
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 269.4,
+      "odenisli_bali": 272.2
+    },
+    {
+      "ixtisas": "Geologiya və geofizika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 230.0
+    },
+    {
+      "ixtisas": "Geologiya və geofizika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 248.0
+    },
+    {
+      "ixtisas": "Geomatika və geodeziya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 216.5
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 552.5,
+      "odenisli_bali": 552.5
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 417.7,
+      "odenisli_bali": 437.1
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 513.6,
+      "odenisli_bali": 513.6
+    },
+    {
+      "ixtisas": "Mədən mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 208.9
+    },
+    {
+      "ixtisas": "Meliorasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 256.5,
+      "odenisli_bali": 265.8
+    },
+    {
+      "ixtisas": "Mühəndis fizikası",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 268.3,
+      "odenisli_bali": 268.3
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 366.9,
+      "odenisli_bali": 366.9
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 267.2,
+      "odenisli_bali": 267.2
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 290.6,
+      "odenisli_bali": 290.6
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 255.0,
+      "odenisli_bali": 255.4
+    },
+    {
+      "ixtisas": "Fizika müəllimliyi (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 417.8
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 535.5
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi  (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 308.4
+    }
+  ],
+  "Azərbaycan Dövlət Neft və Sənaye Universiteti": [
+    {
+      "ixtisas": "Geologiya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 226.1
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 452.8,
+      "odenisli_bali": 452.8
+    },
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 561.2,
+      "odenisli_bali": 561.2
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 201.5
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 321.0,
+      "odenisli_bali": 321.0
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 259.9,
+      "odenisli_bali": 259.9
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 287.7,
+      "odenisli_bali": 289.9
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 301.0,
+      "odenisli_bali": 301.0
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 435.1,
+      "odenisli_bali": 435.1
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 275.6,
+      "odenisli_bali": 275.6
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 404.1,
+      "odenisli_bali": 404.1
+    },
+    {
+      "ixtisas": "Geologiya və geofizika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 203.7
+    },
+    {
+      "ixtisas": "Geologiya və geofizika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 261.1
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 206.4
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 539.7,
+      "odenisli_bali": 539.7
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 606.5,
+      "odenisli_bali": 606.5
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 513.0,
+      "odenisli_bali": 513.0
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 588.6,
+      "odenisli_bali": 588.6
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 313.1,
+      "odenisli_bali": 313.1
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 352.6,
+      "odenisli_bali": 352.6
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 441.1,
+      "odenisli_bali": 441.1
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 626.3,
+      "odenisli_bali": 626.3
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 451.4,
+      "odenisli_bali": 451.4
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 549.4,
+      "odenisli_bali": 549.4
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.7,
+      "odenisli_bali": 331.7
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 423.3,
+      "odenisli_bali": 423.3
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 203.7
+    },
+    {
+      "ixtisas": "Materiallar mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 225.2
+    },
+    {
+      "ixtisas": "Mədən mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 218.8
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 213.3
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 324.0,
+      "odenisli_bali": 324.0
+    },
+    {
+      "ixtisas": "Mexatronika və robototexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 261.8,
+      "odenisli_bali": 336.4
+    },
+    {
+      "ixtisas": "Mexatronika və robototexnika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 395.2,
+      "odenisli_bali": 395.2
+    },
+    {
+      "ixtisas": "Mühəndis fizikası",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 203.6
+    },
+    {
+      "ixtisas": "Mühəndis fizikası (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 299.9
+    },
+    {
+      "ixtisas": "Neft-qaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 477.3,
+      "odenisli_bali": 477.3
+    },
+    {
+      "ixtisas": "Neft- qaz mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 618.1,
+      "odenisli_bali": 618.1
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 336.5,
+      "odenisli_bali": 336.5
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 446.6,
+      "odenisli_bali": 446.6
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 340.6
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 371.4,
+      "odenisli_bali": 371.4
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 224.5
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 257.9
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 307.6
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 526.2,
+      "odenisli_bali": 526.2
+    }
+  ],
+  "Azərbaycan Texniki Universiteti": [
+    {
+      "ixtisas": "Hərbi kompozisiya materialları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 212.9
+    },
+    {
+      "ixtisas": "Hərbi rabitə vasitələri mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 221.8
+    },
+    {
+      "ixtisas": "Optotexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Pirotexniki və partladıcı vasitələr mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Silah və silah sistemləri mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 207.6
+    },
+    {
+      "ixtisas": "Sistemlər mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 338.9,
+      "odenisli_bali": 338.9
+    },
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 507.2,
+      "odenisli_bali": 507.2
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 399.3,
+      "odenisli_bali": 399.3
+    },
+    {
+      "ixtisas": "Aerokosmik mühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 233.2
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 211.8
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 248.3,
+      "odenisli_bali": 251.6
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 391.1,
+      "odenisli_bali": 391.1
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 232.5
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 206.1
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 205.5
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 442.4
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 561.9,
+      "odenisli_bali": 561.9
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 477.9,
+      "odenisli_bali": 477.9
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 435.6,
+      "odenisli_bali": 435.8
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 551.1,
+      "odenisli_bali": 551.1
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 238.0,
+      "odenisli_bali": 239.2
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 438.6
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 606.1,
+      "odenisli_bali": 606.1
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 542.6,
+      "odenisli_bali": 542.6
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 392.9,
+      "odenisli_bali": 392.9
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 204.6
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 270.5
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 223.6
+    },
+    {
+      "ixtisas": "Materiallar mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Mədən mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Metallurgiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 261.1
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 212.4
+    },
+    {
+      "ixtisas": "Mexatronikavərobototexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 251.6,
+      "odenisli_bali": 336.3
+    },
+    {
+      "ixtisas": "Mühəndis fizikası",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 209.1
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 214.5
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.4,
+      "odenisli_bali": 331.7
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 340.5
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 256.4
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 215.6
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 307.9
+    }
+  ],
+  "Azərbaycan Memarlıq və İnşaat Universiteti": [
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 232.9
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 265.7,
+      "odenisli_bali": 300.8
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 232.9
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 302.5
+    },
+    {
+      "ixtisas": "Geomatika və geodeziya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 235.1
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 245.4
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 425.1,
+      "odenisli_bali": 425.1
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 385.2,
+      "odenisli_bali": 385.2
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 218.6
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 492.7,
+      "odenisli_bali": 492.7
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 413.9,
+      "odenisli_bali": 413.9
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 323.3,
+      "odenisli_bali": 323.3
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 309.1
+    },
+    {
+      "ixtisas": "Kommunikasiya sistemləri mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 297.7
+    },
+    {
+      "ixtisas": "Kommunikasiya sistemləri mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 224.5
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 269.4
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 203.0
+    },
+    {
+      "ixtisas": "Materiallar mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 304.3
+    },
+    {
+      "ixtisas": "Meliorasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 232.7,
+      "odenisli_bali": 235.0
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 236.9
+    },
+    {
+      "ixtisas": "Neft- qaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 424.5
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 225.3
+    },
+    {
+      "ixtisas": "Nəqliyyat tikintisi mühəndisliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 251.7
+    },
+    {
+      "ixtisas": "Nəqliyyat tikintisi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 211.4
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 285.9,
+      "odenisli_bali": 323.9
+    },
+    {
+      "ixtisas": "Şəhərsalma",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 234.2
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 311.0
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 269.4,
+      "odenisli_bali": 269.4
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 235.7,
+      "odenisli_bali": 250.6
+    },
+    {
+      "ixtisas": "Memarlıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 310.0,
+      "odenisli_bali": 310.0
+    },
+    {
+      "ixtisas": "Memarlıq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 483.3,
+      "odenisli_bali": 483.3
+    }
+  ],
+  "Azərbaycan Dövlət Pedaqoji Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 315.4,
+      "odenisli_bali": 369.1
+    },
+    {
+      "ixtisas": "Fizika müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 369.0
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 285.9,
+      "odenisli_bali": 288.4
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 288.2
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 367.8,
+      "odenisli_bali": 499.7
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 515.9,
+      "odenisli_bali": 515.9
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 427.1,
+      "odenisli_bali": 427.1
+    },
+    {
+      "ixtisas": "Texnologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 231.9,
+      "odenisli_bali": 249.4
+    },
+    {
+      "ixtisas": "Fizika müəllimliyi (Şamaxı filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 432.6
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi (Şamaxı filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 309.9
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi (Şəki filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 312.7
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi (Şəki filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 306.1
+    },
+    {
+      "ixtisas": "Fizika müəllimliyi (Ağcabədi filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 489.8
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi (Ağcabədi filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi (Ağcabədi filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 306.1
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi (Quba filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 504.2
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi (Quba filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 235.2,
+      "odenisli_bali": 308.3
+    }
+  ],
+  "Azərbaycan Dövlət İqtisad Universiteti": [
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 587.4,
+      "odenisli_bali": 587.4
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 306.2,
+      "odenisli_bali": 306.2
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 415.8,
+      "odenisli_bali": 415.8
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 622.4,
+      "odenisli_bali": 622.4
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 394.8
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 658.5,
+      "odenisli_bali": 658.5
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 610.6,
+      "odenisli_bali": 610.6
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 215.6,
+      "subbakalavr": {
+        "odenissiz": 99.0,
+        "odenisli": 99.0
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 647.2,
+      "odenisli_bali": 647.2
+    },
+    {
+      "ixtisas": "Kommunikasiya sistemləri mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 438.4,
+      "odenisli_bali": 438.4
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 584.8,
+      "odenisli_bali": 584.8
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 636.8,
+      "odenisli_bali": 636.8
+    },
+    {
+      "ixtisas": "Maşm mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 265.9,
+      "odenisli_bali": 265.9
+    },
+    {
+      "ixtisas": "Materiallar mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 222.9,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 64.8
+      }
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 371.2,
+      "odenisli_bali": 371.2
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 433.5,
+      "odenisli_bali": 433.5
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 367.2,
+      "odenisli_bali": 367.2
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (Zaqatala filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 239.5,
+      "subbakalavr": {
+        "odenissiz": 77.0,
+        "odenisli": 86.4
+      }
+    }
+  ],
+  "Bakı Mühəndislik Universiteti": [
+    {
+      "ixtisas": "Fizika(tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 291.7
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 386.1,
+      "odenisli_bali": 386.1
+    },
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 507.4,
+      "odenisli_bali": 507.4
+    },
+    {
+      "ixtisas": "Riyaziyyat (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 328.9
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 237.5,
+      "odenisli_bali": 245.7
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 247.6,
+      "odenisli_bali": 277.6
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 237.9,
+      "subbakalavr": {
+        "odenissiz": 80.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 271.3,
+      "odenisli_bali": 271.3
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 227.9,
+      "subbakalavr": {
+        "odenissiz": 69.6,
+        "odenisli": 84.6
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 497.9,
+      "odenisli_bali": 497.9
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 595.8,
+      "odenisli_bali": 595.8
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 435.1,
+      "odenisli_bali": 435.1
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 346.6,
+      "subbakalavr": {
+        "odenissiz": 91.6,
+        "odenisli": 91.6
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 568.5,
+      "odenisli_bali": 568.5
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 312.7,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 312.3
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 440.1,
+      "subbakalavr": {
+        "odenissiz": 69.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi (tədris ingilis  dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 534.7,
+      "odenisli_bali": 534.7
+    },
+    {
+      "ixtisas": "Kommunikasiya sistemləri  mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 229.1,
+      "subbakalavr": {
+        "odenissiz": 77.8,
+        "odenisli": 78.6
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 403.9,
+      "odenisli_bali": 403.9
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 506.0,
+      "odenisli_bali": 506.0
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 269.3,
+      "subbakalavr": {
+        "odenissiz": 77.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 270.4
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 63.5
+      }
+    },
+    {
+      "ixtisas": "Memarlıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 303.6,
+      "subbakalavr": {
+        "odenissiz": 88.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Memarlıq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 317.3,
+      "odenisli_bali": 317.3
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 223.4,
+      "subbakalavr": {
+        "odenissiz": 69.2,
+        "odenisli": 81.2
+      }
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 252.7
+    },
+    {
+      "ixtisas": "Mexatronika və robototexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 339.3
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 78.5,
+        "odenisli": 82.2
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyat tikintisi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 384.4,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 297.2,
+      "odenisli_bali": 324.4
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 353.5,
+      "odenisli_bali": 353.5
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 343.8,
+      "subbakalavr": {
+        "odenissiz": 79.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 243.4,
+      "subbakalavr": {
+        "odenissiz": 74.5,
+        "odenisli": 80.8
+      }
+    },
+    {
+      "ixtisas": "Şəhərsalma",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 219.7
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 312.4
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 342.1,
+      "odenisli_bali": 342.1
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 225.9,
+      "odenisli_bali": 225.9
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 192.2,
+      "odenisli_bali": 197.8
+    }
+  ],
+  "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası": [
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 590.0,
+      "odenisli_bali": 590.0
+    }
+  ],
+  "Azərbaycan Dövlət Rəssamlıq Akademiyası": [
+    {
+      "ixtisas": "Memarlıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 238.5,
+      "odenisli_bali": 304.3
+    }
+  ],
+  "Azərbaycan Turizm və Menecment Universiteti": [
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.9,
+        "odenisli": null
+      }
+    }
+  ],
+  "Milli Aviasiya Akademiyası": [
+    {
+      "ixtisas": "Aerokosmik mühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 348.6,
+      "odenisli_bali": 348.6
+    },
+    {
+      "ixtisas": "Aerokosmik mühəndislik (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 401.4,
+      "odenisli_bali": 401.4
+    },
+    {
+      "ixtisas": "Aviasiya təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 389.8
+    },
+    {
+      "ixtisas": "Aviasiya təhlükəsizliyi mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 394.4
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 330.6,
+      "odenisli_bali": 330.6
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 285.7
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 271.4,
+      "odenisli_bali": 271.4
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 318.9,
+      "odenisli_bali": 318.9
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 301.7,
+      "odenisli_bali": 301.7
+    },
+    {
+      "ixtisas": "Hava nəqliyyatının hərəkətinin təşkili (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 287.6
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 423.9,
+      "odenisli_bali": 423.9
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 501.7,
+      "odenisli_bali": 501.7
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 392.3,
+      "odenisli_bali": 392.3
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 397.1,
+      "odenisli_bali": 399.2
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 385.5,
+      "odenisli_bali": 387.6
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 441.9,
+      "odenisli_bali": 441.9
+    },
+    {
+      "ixtisas": "Materiallar mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 215.0
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 275.5
+    },
+    {
+      "ixtisas": "Mexatronika və robototexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 335.8,
+      "odenisli_bali": 335.8
+    },
+    {
+      "ixtisas": "Mexatronika və robototexnika  mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 317.0,
+      "odenisli_bali": 350.9
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 343.5,
+      "odenisli_bali": 343.5
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 288.8,
+      "odenisli_bali": 288.8
+    },
+    {
+      "ixtisas": "Uçuş mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 382.8,
+      "odenisli_bali": 391.9
+    }
+  ],
+  "Azərbaycan Dövlət Dəniz Akademiyası": [
+    {
+      "ixtisas": "Dəniz naviqasiyası mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 370.5,
+      "odenisli_bali": 425.8
+    },
+    {
+      "ixtisas": "Dəniz naviqasiyası mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 471.3,
+      "odenisli_bali": 471.3
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 342.6,
+      "odenisli_bali": 342.6
+    },
+    {
+      "ixtisas": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 331.1,
+      "odenisli_bali": 355.0
+    },
+    {
+      "ixtisas": "Gəmi energetik qurğularının istismarı mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 388.1,
+      "odenisli_bali": 388.1
+    },
+    {
+      "ixtisas": "Gəmiqayırma və gəmi təmiri  mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 320.7,
+      "odenisli_bali": 320.7
+    }
+  ],
+  "Bakı Ali Neft Məktəbi": [
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 673.5,
+      "odenisli_bali": 673.5
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris  ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 687.1,
+      "odenisli_bali": 687.1
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 678.0,
+      "odenisli_bali": 678.0
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 673.0,
+      "odenisli_bali": 673.0
+    },
+    {
+      "ixtisas": "Neft-qaz mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 668.3,
+      "odenisli_bali": 668.3
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi (tədris ingilis dilində )",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 655.9,
+      "odenisli_bali": 655.9
+    }
+  ],
+  "Dövlət Gümrük Komitəsinin Akademiyası": [
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 518.9,
+      "odenisli_bali": 518.9
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 550.8,
+      "odenisli_bali": 550.8
+    }
+  ],
+  "Naxçıvan Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 378.2
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 515.2
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 324.0,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Texnologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 191.8,
+      "odenisli_bali": 226.0
+    },
+    {
+      "ixtisas": "Fizika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 278.5
+    },
+    {
+      "ixtisas": "Riyaziyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 328.7
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 201.1,
+      "odenisli_bali": 248.4
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 256.0,
+      "subbakalavr": {
+        "odenissiz": 88.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 395.3,
+      "subbakalavr": {
+        "odenissiz": 76.3,
+        "odenisli": 85.6
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 427.0,
+      "odenisli_bali": 427.0
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 248.8,
+      "odenisli_bali": 248.8
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 244.7,
+      "subbakalavr": {
+        "odenissiz": 96.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 371.2
+    },
+    {
+      "ixtisas": "Meliorasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 190.8,
+      "odenisli_bali": 273.9
+    },
+    {
+      "ixtisas": "Memarlıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 356.1,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi (sahələr üzrə)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 226.4,
+      "subbakalavr": {
+        "odenissiz": 77.3,
+        "odenisli": 81.6
+      }
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 72.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 216.3,
+      "odenisli_bali": 216.3
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 187.8,
+      "odenisli_bali": 187.8
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 207.5,
+      "odenisli_bali": 249.3
+    }
+  ],
+  "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Aqromühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 211.1,
+      "odenisli_bali": 211.1
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 232.8,
+      "subbakalavr": {
+        "odenissiz": 87.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 203.3,
+      "subbakalavr": {
+        "odenissiz": 88.1,
+        "odenisli": 88.1
+      }
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 230.8
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 296.6,
+      "odenisli_bali": 296.6
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 87.8,
+        "odenisli": 87.8
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 240.1,
+      "subbakalavr": {
+        "odenissiz": 81.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 312.6,
+      "subbakalavr": {
+        "odenissiz": 81.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 212.0,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 73.1
+      }
+    },
+    {
+      "ixtisas": "Meliorasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 217.7,
+      "odenisli_bali": 217.7
+    },
+    {
+      "ixtisas": "Meliorasiya mühəndisliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 185.8,
+      "odenisli_bali": 185.8
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 345.8,
+      "subbakalavr": {
+        "odenissiz": 70.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Aqronomluq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 208.1,
+      "odenisli_bali": 208.1
+    },
+    {
+      "ixtisas": "Aqronomluq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.7,
+      "odenisli_bali": 200.7
+    },
+    {
+      "ixtisas": "Aqronomluq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 249.4,
+      "odenisli_bali": 249.4
+    },
+    {
+      "ixtisas": "Balıqçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 187.2,
+      "odenisli_bali": 187.2
+    },
+    {
+      "ixtisas": "Meşəçilik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 193.4,
+      "odenisli_bali": 193.4
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 195.3,
+      "odenisli_bali": 195.3
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 211.4,
+      "odenisli_bali": 211.4
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 213.3,
+      "odenisli_bali": 213.3
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 230.5,
+      "odenisli_bali": 230.5
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlak kadastn",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": 250.0
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlak kadastn",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 150.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Zoomühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 190.6,
+      "odenisli_bali": 190.6
+    }
+  ],
+  "Gəncə Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 375.4
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 293.7,
+      "subbakalavr": {
+        "odenissiz": 69.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 247.6,
+      "odenisli_bali": 503.6
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 305.6,
+      "odenisli_bali": 305.6
+    },
+    {
+      "ixtisas": "Texnologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 197.3,
+      "odenisli_bali": 226.1
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 299.5,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 220.0,
+      "odenisli_bali": 356.2
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 69.3
+      }
+    }
+  ],
+  "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 204.5,
+      "odenisli_bali": 292.8
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 270.7,
+      "subbakalavr": {
+        "odenissiz": 81.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 431.9,
+      "subbakalavr": {
+        "odenissiz": 85.8,
+        "odenisli": 85.9
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.1,
+        "odenisli": 90.1
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 84.4,
+        "odenisli": 86.0
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 264.7,
+      "subbakalavr": {
+        "odenissiz": 71.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyalan mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 272.6,
+      "subbakalavr": {
+        "odenissiz": 75.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Maşın mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 81.0
+      }
+    },
+    {
+      "ixtisas": "Metallurgiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 274.0,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 71.2
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 249.9,
+      "subbakalavr": {
+        "odenissiz": 83.5,
+        "odenisli": 84.0
+      }
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 74.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 363.6,
+      "subbakalavr": {
+        "odenissiz": 69.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 306.3,
+      "subbakalavr": {
+        "odenissiz": 82.2,
+        "odenisli": 82.2
+      }
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 184.7,
+      "odenisli_bali": 194.4
+    },
+    {
+      "ixtisas": "Şərabçılıq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 159.1,
+      "odenisli_bali": 196.1
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 184.7,
+      "odenisli_bali": 194.4
+    }
+  ],
+  "Sumqayıt Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 434.0
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.6,
+      "odenisli_bali": 288.7
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 273.3,
+      "odenisli_bali": 505.6
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 502.4
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 321.7,
+      "odenisli_bali": 321.7
+    },
+    {
+      "ixtisas": "Fizika",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 287.5,
+      "odenisli_bali": 287.5
+    },
+    {
+      "ixtisas": "Riyaziyyat",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 255.6,
+      "odenisli_bali": 327.1
+    },
+    {
+      "ixtisas": "Riyaziyyat",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 267.3,
+      "odenisli_bali": 348.9
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 241.6,
+      "odenisli_bali": 250.7
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 238.9,
+      "subbakalavr": {
+        "odenissiz": 73.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 217.9,
+      "subbakalavr": {
+        "odenissiz": 68.8,
+        "odenisli": 85.1
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 215.5,
+      "odenisli_bali": 412.2
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 297.6,
+      "odenisli_bali": 297.6
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 209.0,
+      "subbakalavr": {
+        "odenissiz": 93.8,
+        "odenisli": 93.8
+      }
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 465.4,
+      "subbakalavr": {
+        "odenissiz": 64.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 284.7,
+      "odenisli_bali": 284.7
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 293.6,
+      "subbakalavr": {
+        "odenissiz": 83.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 264.5,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Neft- qaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 429.7,
+      "subbakalavr": {
+        "odenissiz": 81.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 83.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 368.6,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Mingəçevir Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 389.6
+    },
+    {
+      "ixtisas": "İnformatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 511.3
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 308.3,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 292.3,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 73.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 216.1,
+      "odenisli_bali": 256.5
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 252.9,
+      "subbakalavr": {
+        "odenissiz": 78.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Energetika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 233.8,
+      "subbakalavr": {
+        "odenissiz": 70.2,
+        "odenisli": 85.6
+      }
+    },
+    {
+      "ixtisas": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 291.8,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": 67.6
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 397.3,
+      "subbakalavr": {
+        "odenissiz": 73.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 86.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 215.3,
+      "subbakalavr": {
+        "odenissiz": 74.7,
+        "odenisli": 86.1
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 239.4,
+      "subbakalavr": {
+        "odenissiz": 88.0,
+        "odenisli": 88.1
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 258.6,
+      "subbakalavr": {
+        "odenissiz": 71.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Nəqliyyat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "Lənkəran Dövlət Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 375.3
+    },
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 512.1
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 306.8,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Texnologiya müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 196.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Aqromühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 208.6,
+      "odenisli_bali": 208.6
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 409.5,
+      "subbakalavr": {
+        "odenissiz": 74.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 230.1,
+      "subbakalavr": {
+        "odenissiz": 94.2,
+        "odenisli": 94.2
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.0,
+        "odenisli": 88.0
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 249.1,
+      "subbakalavr": {
+        "odenissiz": 83.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 340.8,
+      "subbakalavr": {
+        "odenissiz": 72.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Aqronomluq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 198.0,
+      "odenisli_bali": 198.0
+    },
+    {
+      "ixtisas": "Aqronomluq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 193.3,
+      "odenisli_bali": 193.3
+    },
+    {
+      "ixtisas": "Meşəçilik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 183.8,
+      "odenisli_bali": 183.8
+    },
+    {
+      "ixtisas": "Meşəçilik",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 177.2,
+      "odenisli_bali": 177.2
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 186.3,
+      "odenisli_bali": 186.3
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 173.9,
+      "odenisli_bali": 173.9
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 205.6,
+      "odenisli_bali": 205.6
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 203.8,
+      "odenisli_bali": 203.8
+    },
+    {
+      "ixtisas": "Zoomühəndislik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 187.3,
+      "odenisli_bali": 187.3
+    }
+  ],
+  "Azərbaycan Kooperasiya Universiteti": [
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 223.3,
+      "odenisli_bali": 227.9
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 260.5,
+      "subbakalavr": {
+        "odenissiz": 82.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 76.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 212.8,
+      "odenisli_bali": 212.8
+    },
+    {
+      "ixtisas": "Şərabçılıq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 202.8,
+      "odenisli_bali": 202.8
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 243.0,
+      "odenisli_bali": 243.0
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 244.6,
+      "odenisli_bali": 251.4
+    },
+    {
+      "ixtisas": "Ekologiya mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 223.3,
+      "odenisli_bali": 227.9
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 260.5,
+      "subbakalavr": {
+        "odenissiz": 82.5,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 76.6,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Torpaqşünaslıq və aqrokimya",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 243.0,
+      "odenisli_bali": 243.0
+    },
+    {
+      "ixtisas": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 244.6,
+      "odenisli_bali": 251.4
+    }
+  ],
+  "Qarabağ Universiteti": [
+    {
+      "ixtisas": "Riyaziyyat müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 444.4,
+      "odenisli_bali": 444.4
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 363.9,
+      "odenisli_bali": 363.9
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 363.9,
+      "odenisli_bali": 363.9
+    },
+    {
+      "ixtisas": "Komputer mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 442.3,
+      "odenisli_bali": 442.3
+    },
+    {
+      "ixtisas": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 376.7,
+      "odenisli_bali": 376.7
+    },
+    {
+      "ixtisas": "Mexatronika və robotexnika mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 378.7,
+      "odenisli_bali": 378.7
+    }
+  ],
+  "Türkiyə-Azərbaycan Universiteti": [
+    {
+      "ixtisas": "Komputer mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 641.6,
+      "odenisli_bali": 641.6
+    },
+    {
+      "ixtisas": "Qida mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 450.0,
+      "odenisli_bali": 452.1
+    },
+    {
+      "ixtisas": "Sənaye mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 544.4,
+      "odenisli_bali": 544.4
+    }
+  ],
+  "\"Azərbaycan\" Universiteti": [
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 80.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 264.7,
+      "odenisli_bali": 401.7
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 311.5,
+      "odenisli_bali": 311.5
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 245.7,
+      "subbakalavr": {
+        "odenissiz": 91.2,
+        "odenisli": 91.2
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 282.7,
+      "odenisli_bali": 282.7
+    }
+  ],
+  "Qərbi Kaspi Universiteti": [
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": 293.6,
+      "subbakalavr": {
+        "odenissiz": 68.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter elmləri",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 250.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 77.9,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Cihaz mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 213.1
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 76.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 88.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 276.1,
+      "odenisli_bali": 276.1
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 91.7,
+        "odenisli": 91.7
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 248.5,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 241.7,
+      "subbakalavr": {
+        "odenissiz": 85.1,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Meşəçilik",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 225.7,
+      "odenisli_bali": 226.0
+    },
+    {
+      "ixtisas": "Meşəçilik",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 211.7,
+      "odenisli_bali": 211.7
+    }
+  ],
+  "Xəzər Universiteti": [
+    {
+      "ixtisas": "Fizika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 371.0
+    },
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 371.8,
+      "odenisli_bali": 371.8
+    },
+    {
+      "ixtisas": "Kompüter elmləri (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 444.1,
+      "odenisli_bali": 444.1
+    },
+    {
+      "ixtisas": "Elektrik və elektronika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 248.8,
+      "subbakalavr": {
+        "odenissiz": 69.4,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnşaat mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 314.9,
+      "odenisli_bali": 314.9
+    },
+    {
+      "ixtisas": "Kimya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 562.9,
+      "odenisli_bali": 562.9
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 434.4,
+      "odenisli_bali": 434.4
+    },
+    {
+      "ixtisas": "Mexanika mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 283.0,
+      "subbakalavr": {
+        "odenissiz": 55.7,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Neft- qaz mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 433.2,
+      "odenisli_bali": 433.2
+    },
+    {
+      "ixtisas": "Radiotexnika və telekommunikasiya mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 276.0,
+      "subbakalavr": {
+        "odenissiz": 70.8,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Memarlıq (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 305.8,
+      "subbakalavr": {
+        "odenissiz": 91.1,
+        "odenisli": null
+      }
+    }
+  ],
+  "Bakı Avrasiya Universiteti": [
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 204.4,
+      "subbakalavr": {
+        "odenissiz": 96.1,
+        "odenisli": 96.1
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 90.9,
+        "odenisli": 90.9
+      }
+    }
+  ],
+  "Bakı Qızlar Universiteti": [
+    {
+      "ixtisas": "Riyaziyyat və informatika müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 305.8,
+      "subbakalavr": {
+        "odenissiz": 51.0,
+        "odenisli": null
+      }
+    }
+  ],
+  "“Odlar Yurdu ” Universiteti": [
+    {
+      "ixtisas": "İnformasiya təhlükəsizliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": null,
+      "subbakalavr": {
+        "odenissiz": 82.3,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 343.6,
+      "subbakalavr": {
+        "odenissiz": 96.1,
+        "odenisli": 96.8
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 268.8,
+      "subbakalavr": {
+        "odenissiz": 97.1,
+        "odenisli": 97.1
+      }
+    },
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 245.0,
+      "odenisli_bali": 245.0
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi (tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 336.2,
+      "subbakalavr": {
+        "odenissiz": 83.2,
+        "odenisli": null
+      }
+    },
+    {
+      "ixtisas": "Kompüter mühəndisliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 241.3,
+      "subbakalavr": {
+        "odenissiz": 88.9,
+        "odenisli": null
+      }
+    }
+  ],
+  "Bakı Biznes Universiteti": [
+    {
+      "ixtisas": "İnformasiya texnologiyaları",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 200.0,
+      "odenisli_bali": 219.5,
+      "subbakalavr": {
+        "odenissiz": 92.5,
+        "odenisli": 92.5
+      }
+    }
+  ]
+}

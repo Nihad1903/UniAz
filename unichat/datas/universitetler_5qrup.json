@@ -1,0 +1,246 @@
+{
+  "Bakı Dövlət Universiteti": [
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi (Qazax filialı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 126.8,
+      "odenisli_bali": 176.4
+    }
+  ],
+  "Azərbaycan Dövlət Pedaqoji Universiteti": [
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 135.5,
+      "odenisli_bali": 160.4
+    },
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, violin, qarmon, tar, saz, kamança, qanun, klarnet, vokal, balaban, saksofon, xor dirijorluğu, musiqi nəzəriyyəsi)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 100.5,
+      "odenisli_bali": 108.9
+    },
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 145.1,
+      "odenisli_bali": 154.5
+    }
+  ],
+  "Azərbaycan Dövlət İqtisad Universiteti": [
+    {
+      "ixtisas": "Dizayn",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 203.6,
+      "odenisli_bali": 236.9
+    }
+  ],
+  "Bakı Mühəndislik Universiteti": [
+    {
+      "ixtisas": "Dizayn (sənaye dizaynı, interyer dizayn, qrafik dizaynı, geyim dizaynı)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 187.9,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Dizayn (sənaye dizaynı, interyer dizayn, qrafik dizaynı, geyim dizaynı, tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 228.0,
+      "odenisli_bali": 239.4
+    }
+  ],
+  "İtaliya-Azərbaycan Universiteti (layihə ADA iversiteti tərəfindən həyata keçirilir)": [
+    {
+      "ixtisas": "Dizayn (interyer dizaynı, tədris ingilis dilində)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 243.9,
+      "odenisli_bali": null
+    }
+  ],
+  "Bakı Musiqi Akademiyası": [
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, violin, viola, violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtoma, truba, trombon, tuba, zərb alətləri)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 117.8,
+      "odenisli_bali": null
+    }
+  ],
+  "Azərbaycan Milli Konservatoriyası": [
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 121.3,
+      "odenisli_bali": 121.3
+    }
+  ],
+  "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti": [
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, violin,  viola, gitara, klarnet, saksofon, zərb alətləri, tar, kamança, saz, qanun, nağara, balaban, qarmon, vokal)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 115.7,
+      "odenisli_bali": 115.7
+    },
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 166.8,
+      "odenisli_bali": 166.8
+    }
+  ],
+  "Azərbaycan Dövlət Rəssamlıq Akademiyası": [
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 172.8,
+      "odenisli_bali": 172.8
+    }
+  ],
+  "Azərbaycan İdman Akademiyası": [
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 139.2,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Ümumi fiziki hazırlıq",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 121.2,
+      "odenisli_bali": 146.1
+    },
+    {
+      "ixtisas": "Ümumi fiziki hazırlıq",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 111.5,
+      "odenisli_bali": 150.5
+    },
+    {
+      "ixtisas": "Kütləvi- sağlamlaşdırıcı idman",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 121.4,
+      "odenisli_bali": 147.9
+    },
+    {
+      "ixtisas": "Kütləvi- sağlamlaşdırıcı idman",
+      "eyani_qiyabi": "Q",
+      "odenissiz_bali": 119.7,
+      "odenisli_bali": 150.3
+    },
+    {
+      "ixtisas": "Adaptiv bədən tərbiyəsi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 124.4,
+      "odenisli_bali": 150.7
+    }
+  ],
+  "Naxçıvan Dövlət Universiteti": [
+    {
+      "ixtisas": "Dizayn (sahələr üzrə)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 175.9,
+      "odenisli_bali": 250.9
+    },
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 123.7,
+      "odenisli_bali": 163.4
+    },
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, tar,  kamança, nağara, qarmon, saz, zurna)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 93.5,
+      "odenisli_bali": null
+    }
+  ],
+  "Naxçıvan Müəllimlər İnstitutu": [
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 96.6,
+      "odenisli_bali": null
+    }
+  ],
+  "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Dizayn",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 176.7,
+      "odenisli_bali": null
+    }
+  ],
+  "Gəncə Dövlət Universiteti": [
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 131.7,
+      "odenisli_bali": 160.7
+    },
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, violin,viola, violonçel, kontrabas, arfa, tar, kamança, saz, qanun, ud, tütək, zurna, balaban, fleyta, qoboy, klarnet, faqot, valtoma, truba, tuba, nağara, vokal, qarmon)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 95.7,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 103.6,
+      "odenisli_bali": 189.3
+    }
+  ],
+  "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)": [
+    {
+      "ixtisas": "Dizayn",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 166.5,
+      "odenisli_bali": 240.3
+    }
+  ],
+  "Sumqayıt Dövlət Universiteti": [
+    {
+      "ixtisas": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 136.6,
+      "odenisli_bali": 163.8
+    }
+  ],
+  "Lənkəran Dövlət Universiteti": [
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, tar, kamança, qarmon, saz, qanun, violin, klarnet, balaban, nağara, gitara, vokal, xor dirijorluğu, musiqi nəzəriyyəsi)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 70.4,
+      "odenisli_bali": null
+    },
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 111.2,
+      "odenisli_bali": null
+    }
+  ],
+  "Qarabağ Universiteti": [
+    {
+      "ixtisas": "Musiqi müəllimliyi (fortepiano, violin, klamet, tar, kamança, saz, nağara, qarmon)",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 87.0,
+      "odenisli_bali": null
+    }
+  ],
+  "Qərbi Kaspi Universiteti": [
+    {
+      "ixtisas": "Dizayn",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 187.8,
+      "odenisli_bali": null
+    }
+  ],
+  "Xəzər Universiteti": [
+    {
+      "ixtisas": "Təsviri incəsənət müəllimliyi",
+      "eyani_qiyabi": "Ə",
+      "odenissiz_bali": 138.4,
+      "odenisli_bali": 155.5
+    }
+  ]
+}

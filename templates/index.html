@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniAz - Ağıllı Təhsil Platforması</title>
+    <link rel="icon" href="ChatGPT Image 13 Haz 2025 18_48_07.png">
+    <link rel="stylesheet" href="{% static 'app.css' %}">
+    <script src="static/main.js"></script>
+</head>
+{% include 'nav.html' %}
+<body>
+    <body>
+    <div class="bg-container"></div>
+    <div class="bg-overlay"></div>
+
+    <div id="welcome-screen">
+        <div class="welcome-content">
+            <h1>UniAz</h1>
+            <p>Ağıllı Təhsil Platformasına Xoş Gəlmisiniz</p>
+            <div class="loading-spinner"></div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container">
+            <div id="home-page">
+                <section class="hero-section" id="home">
+                    <div class="hero-content">
+                        <h1>Sistemimizin Mahiyyəti</h1>
+                        <p>
+                            Bu sistemin mahiyyəti ondan ibarətdir ki, abituriyentin cari ildə topladığı bala əsaslanaraq, əvvəlki ilin qəbul statistikası ilə müqayisəli təhlil aparılır və nəticədə potensial qəbul oluna biləcək ali təhsil müəssisələri avtomatlaşdırılmış şəkildə təqdim edilir. Qeyd etmək lazımdır ki, universitetlərə qəbul prosesi Dövlət İmtahan Mərkəzi (DİM) tərəfindən, yalnız cari ildə abituriyentin topladığı bala əsasən həyata keçirilir. Bu səbəbdən sistemin verdiyi nəticələrdə müəyyən uyğunsuzluq və ya yanlışlıq ehtimalı mövcuddur.
+                        </p>
+                    </div>
+                </section>
+
+                <section class="group-selection">
+                    <h2 class="section-title">📚 Qrupunuzu Seçin</h2>
+                    <div class="group-grid">
+                        <div class="group-card" onclick="selectGroup(1)">
+                            <div class="group-number">1</div>
+                            <h3>Birinci Qrup</h3>
+                            <p>Riyazi elmlər və mühendislik sahələri</p>
+                            <button class="group-btn">Seç</button>
+                        </div>
+                        <div class="group-card" onclick="selectGroup(2)">
+                            <div class="group-number">2</div>
+                            <h3>İkinci Qrup</h3>
+                            <p>İqtisadiyyat və biznes sahələri</p>
+                            <button class="group-btn">Seç</button>
+                        </div>
+                        <div class="group-card" onclick="selectGroup(3)">
+                            <div class="group-number">3</div>
+                            <h3>Üçüncü Qrup</h3>
+                            <p>Sosial elmlər və humanitar sahələr</p>
+                            <button class="group-btn">Seç</button>
+                        </div>
+                        <div class="group-card" onclick="selectGroup(4)">
+                            <div class="group-number">4</div>
+                            <h3>Dördüncü Qrup</h3>
+                            <p>Təbii elmlər və tibb sahələri</p>
+                            <button class="group-btn">Seç</button>
+                        </div>
+                        <div class="group-card" onclick="selectGroup(5)">
+                            <div class="group-number">5</div>
+                            <h3>Beşinci Qrup</h3>
+                            <p>İncəsənət və yaradıcılıq sahələri</p>
+                            <button class="group-btn">Seç</button>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <div id="group-1" class="group-detail">
+                <div class="detail-card">
+                    <div class="detail-header">
+                        <h2>1-ci Qrup</h2>
+                        <p>Riyazi elmlər və mühendislik sahələri</p>
+                    </div>  
+                    <form method="post" action="{% url 'ballar' '1' %}" class="score-form">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="graduation-1">Buraxılış Balı</label>
+                            <input required name="burax" type="number" id="graduation-1" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <small>Maksimum 300 bal</small>
+                            <div class="error-message" id="graduation-error-1"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="block-1">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
+                            <input required name="blok" type="number" id="block-1" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <small>Maksimum 400 bal</small>
+                            <div class="error-message" id="block-error-1"></div>
+                        </div>
+                
+                        
+                        <div class="form-group">
+                        <div class="form-group">
+    <label class="main-label">Altqrup</label>
+    <div class="radio-container">
+        <div class="radio-option">
+            <input type="radio" name="altqrup" value="RI" id="ri-option" checked>
+            <label for="ri-option" class="radio-label">
+                <span class="radio-circle"></span>
+                <span class="radio-text">
+                    <strong>Rİ</strong>
+                    <small>Riyaziyyat İnformatika</small>
+                </span>
+            </label>
+        </div>
+        <div class="radio-option">
+            <input type="radio" name="altqrup" value="RK" id="rk-option">
+            <label for="rk-option" class="radio-label">
+                <span class="radio-circle"></span>
+                <span class="radio-text">
+                    <strong>RK</strong>
+                    <small>Riyaziyyat Kimya</small>
+                </span>
+            </label>
+        </div>
+    </div>
+</div>
+                    </div>
+                                <button type="submit" class="calculate-btn">Hesabla</button>
+                                <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
+                            </form>
+                        </div>
+                    </div>
+
+            <div id="group-2" class="group-detail">
+                <div class="detail-card">
+                    <div class="detail-header">
+                        <h2>2-ci Qrup</h2>
+                        <p>İqtisadiyyat və biznes sahələri</p>
+                    </div>
+                    <form method="post" action="{% url 'ballar' '2' %}" class="score-form">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="graduation-2">Buraxılış Balı</label>
+                            <input required name="burax" type="number" id="graduation-2" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <small>Maksimum 300 bal</small>
+                            <div class="error-message" id="graduation-error-2"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="block-2">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
+                            <input required name="blok" type="number" id="block-2" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <small>Maksimum 400 bal</small>
+                            <div class="error-message" id="block-error-2"></div>
+                        </div>
+                        <button type="submit" class="calculate-btn">Hesabla</button>
+                        <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
+                    </form>
+                </div>
+            </div>
+
+            <div id="group-3" class="group-detail">
+        <div class="detail-card">
+            <div class="detail-header">
+                <h2>3-cü Qrup</h2>
+                <p>Sosial elmlər və humanitar sahələr</p>
+            </div>
+            <form method="post" action="{% url 'ballar' '3' %}" class="score-form">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="graduation-3">Buraxılış Balı</label>
+                    <input required name="burax" type="number" id="graduation-3" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                    <small>Maksimum 300 bal</small>
+                    <div class="error-message" id="graduation-error-3"></div>
+                </div>
+                <div class="form-group">
+                    <label for="block-3">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
+                    <input required name="blok" type="number" id="block-3" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                    <small>Maksimum 400 bal</small>
+                    <div class="error-message" id="block-error-3"></div>
+                </div>
+
+                <div class="form-group">
+                    <label class="main-label">Altqrup</label>
+                    <div class="radio-container">
+                        <div class="radio-option">
+                            <input type="radio" name="altqrup" value="DT" id="dt-option" checked>
+                            <label for="dt-option" class="radio-label">
+                                <span class="radio-circle"></span>
+                                <span class="radio-text">
+                                    <strong>DT</strong>
+                                    <small>Dil-Tarix</small>
+                                </span>
+                            </label>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="altqrup" value="TC" id="tc-option">
+                            <label for="tc-option" class="radio-label">
+                                <span class="radio-circle"></span>
+                                <span class="radio-text">
+                                    <strong>TC</strong>
+                                    <small>Tarix-Coğrafiya</small>
+                                </span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+            <button type="submit" class="calculate-btn">Hesabla</button>
+            <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
+        </form>
+    </div>
+</div>
+
+            <div id="group-4" class="group-detail">
+                <div class="detail-card">
+                    <div class="detail-header">
+                        <h2>4-cü Qrup</h2>
+                        <p>Təbii elmlər və tibb sahələri</p>
+                    </div>
+                    <form method="post" action="{% url 'ballar' '4' %}" class="score-form">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="graduation-4">Buraxılış Balı</label>
+                            <input required name="burax" type="number" id="graduation-4" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <small>Maksimum 300 bal</small>
+                            <div class="error-message" id="graduation-error-4"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="block-4">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
+                            <input required name="blok" type="number" id="block-4" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <small>Maksimum 400 bal</small>
+                            <div class="error-message" id="block-error-4"></div>
+                        </div>
+                        <button type="submit" class="calculate-btn">Hesabla</button>
+                        <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
+                    </form>
+                </div>
+            </div>
+
+            <div id="group-5" class="group-detail">
+                <div class="detail-card">
+                    <div class="detail-header">
+                        <h2>5-ci Qrup</h2>
+                        <p>İncəsənət və yaradıcılıq sahələri</p>
+                    </div>
+                    <form method="post" action="{% url 'ballar-5' %}" class="score-form">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="graduation-5">Buraxılış Balı</label>
+                            <input required name="burax" type="number" id="graduation-5" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <small>Maksimum 300 bal</small>
+                            <div class="error-message" id="graduation-error-5"></div>
+                        </div>
+                        <div class="total-score" id="total-5" style="display: none;">
+                            <h3>Ümumi Balınız</h3>
+                            <div class="score-value" id="total-value-5">0</div>
+                        </div>
+                        <button type="submit" class="calculate-btn">Hesabla</button>
+                        <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="live-support">
+        <button class="support-toggle" onclick="toggleChat()">🤖</button>
+        <div class="support-chat" id="supportChat">
+            <div class="chat-header">
+                <div>
+                    <h3>AI Dəstək</h3>
+                    <div class="ai-indicator">🤖 AI Asistan Aktiv</div>
+                </div>
+                <button class="chat-close" onclick="toggleChat()">×</button>
+            </div>
+            <div class="chat-body" id="chatBody">
+                <div class="chat-message">
+                    <div class="message-bot">
+                        👋 Salam! Mən UniAz AI assistentiyəm. Sizə təhsil seçimləri ilə bağlı necə kömək edə bilərəm?
+                    </div>
+                </div>
+                <div class="typing-indicator" id="typingIndicator">
+                    <div class="typing-dots">
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="chat-input-area">
+                <input type="text" class="chat-input" id="chatInput" placeholder="Sualınızı yazın..." onkeypress="handleEnter(event)">
+                <button class="chat-send" onclick="sendMessage()">➤</button>
+            </div>
+        </div>
+    </div>
+    {% include 'footer.html' %}
+</body>
+</html>
