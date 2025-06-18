@@ -2,21 +2,24 @@ from django.shortcuts import render
 import os
 from django.conf import settings
 
-qrup_3_altqrup = [
-    "Beynəlxalq münasibətlər", "Regionşünaslıq"
-]
+qrup_3_altqrup = ["Beynəlxalq münasibətlər", "Regionşünaslıq"]
+
 
 def home(request):
     return render(request, "index.html")
 
+
 def about(request):
     return render(request, "about.html")
+
 
 def teklif(request):
     return render(request, "teklif.html")
 
+
 def uniler(request):
     return render(request, "uniler.html")
+
 
 def show_scores(request, group):
     results = []
@@ -31,7 +34,7 @@ def show_scores(request, group):
 
         with open("unichat/datas/altqrup_1.json", "r", encoding="utf-8") as data:
             altqrup_data = json.load(data)
-            
+
         file_path = os.path.join(
             settings.BASE_DIR, "unichat/datas", f"universitetler_{group_num}qrup.json"
         )
@@ -39,23 +42,30 @@ def show_scores(request, group):
             data = json.load(f)
         for uni_name, majors in data.items():
             for major in majors:
-                if altqrup == "TC" and ("Beynəlxalq münasibətlər" not in major['ixtisas'] and "Regionşünaslıq" not in major['ixtisas']):
+                if altqrup == "TC" and (
+                    "Beynəlxalq münasibətlər" not in major["ixtisas"]
+                    and "Regionşünaslıq" not in major["ixtisas"]
+                ):
                     continue
-                elif altqrup == "DT" and major['ixtisas'] in qrup_3_altqrup:
+                elif altqrup == "DT" and major["ixtisas"] in qrup_3_altqrup:
                     continue
-                if altqrup == "RI" and major['ixtisas'] not in altqrup_data:
+                if altqrup == "RI" and major["ixtisas"] not in altqrup_data:
                     continue
-                elif altqrup == "RK" and major['ixtisas'] in altqrup_data:
+                elif altqrup == "RK" and major["ixtisas"] in altqrup_data:
                     continue
                 match = False
 
                 odenissiz = major.get("odenissiz_bali")
                 odenisli = major.get("odenisli_bali")
 
-                if (odenissiz is not None and total_score >= odenissiz) or (
+                if odenissiz is None and odenisli is None:
+                    match = True  
+                elif (odenissiz is not None and total_score >= odenissiz) or (
                     odenisli is not None and total_score >= odenisli
                 ):
                     match = True
+                else:
+                    match = False
 
                 if match:
                     results.append(
@@ -66,16 +76,19 @@ def show_scores(request, group):
                                 "Əyani" if major["eyani_qiyabi"] == "Ə" else "Qiyabi"
                             ),
                             "odenissiz": odenissiz,
-                            "odenisli": odenisli
+                            "odenisli": odenisli,
                         }
                     )
         filtered_sorted_list = sorted(
-            [d for d in results if d["odenisli"] is not None],
-            key=lambda x: x["odenisli"],
+            results,
+            key=lambda x: (
+                x["odenissiz"] is None,
+                x["odenissiz"] if x["odenissiz"] is not None else float("inf"),
+            ),
         )
         context = {
             "total": total_score,
-            "result": filtered_sorted_list[::-1],
+            "result": filtered_sorted_list[::-1],  # azalan sıra
         }
         return render(request, "ballar.html", context=context)
 
@@ -87,19 +100,25 @@ def show_scores_5th_group(request):
     from django.shortcuts import render
 
     results = []
-    group_num = 5  
+    group_num = 5
 
     if request.method == "POST":
         burax = request.POST.get("burax")
-        
+
         if not burax:
-            return render(request, "ballar.html", {"error": "Buraxılış balı daxil edilməyib."})
+            return render(
+                request, "ballar.html", {"error": "Buraxılış balı daxil edilməyib."}
+            )
 
         try:
             total_score = int(burax)
         except ValueError:
-            return render(request, "ballar.html", {"error": "Buraxılış balı düzgün formatda deyil."})
-        
+            return render(
+                request,
+                "ballar.html",
+                {"error": "Buraxılış balı düzgün formatda deyil."},
+            )
+
         file_path = os.path.join(
             settings.BASE_DIR, "unichat/datas", f"universitetler_{group_num}qrup.json"
         )
@@ -115,9 +134,8 @@ def show_scores_5th_group(request):
                 # None olsa da göstərmək üçün "match" şərtini dəyişirik:
                 if odenissiz is None and odenisli is None:
                     match = True  # Heç bir bal yoxdursa, göstər
-                elif (
-                    (odenissiz is not None and total_score >= odenissiz)
-                    or (odenisli is not None and total_score >= odenisli)
+                elif (odenissiz is not None and total_score >= odenissiz) or (
+                    odenisli is not None and total_score >= odenisli
                 ):
                     match = True
                 else:
@@ -132,19 +150,24 @@ def show_scores_5th_group(request):
                                 "Əyani" if major["eyani_qiyabi"] == "Ə" else "Qiyabi"
                             ),
                             "odenissiz": odenissiz,
-                            "odenisli": odenisli
+                            "odenisli": odenisli,
                         }
                     )
 
         # Odenisli sahəsi olanları sortlayırıq
         filtered_sorted_list = sorted(
             results,
-            key=lambda x: x["odenisli"] if x["odenisli"] is not None else float('inf'),
+            key=lambda x: (
+                x["odenissiz"] is None,
+                x["odenissiz"] if x["odenissiz"] is not None else float("inf"),
+            ),
         )
 
         context = {
             "total": total_score,
-            "result": filtered_sorted_list[::-1],  # Ən yuxarıya böyük bal olanlar gəlsin
+            "result": filtered_sorted_list[
+                ::-1
+            ],  # Ən yuxarıya böyük bal olanlar gəlsin
         }
 
         return render(request, "ballar.html", context=context)
