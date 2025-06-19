@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Dəstək</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    .live-support {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 999;
+    }
+
+    .support-toggle {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      font-size: 24px;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    .support-chat {
+      display: none;
+      flex-direction: column;
+      width: 300px;
+      max-width: 90vw;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      position: absolute;
+      bottom: 70px;
+      right: 0;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    .chat-header {
+      background-color: #007bff;
+      color: white;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .chat-header h3 {
+      margin: 0;
+      font-size: 16px;
+    }
+
+    .ai-indicator {
+      font-size: 12px;
+      margin-top: 5px;
+    }
+
+    .chat-body {
+      padding: 15px;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+
+    .chat-message {
+      margin-bottom: 10px;
+    }
+
+    .message-bot {
+      background: #f1f1f1;
+      padding: 10px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .question-buttons button {
+      display: block;
+      width: 100%;
+      margin: 5px 0;
+      padding: 10px;
+      background: #e7f0fe;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-align: left;
+      transition: background 0.3s;
+      font-size: 14px;
+    }
+
+    .question-buttons button:hover {
+      background: #d0e4fc;
+    }
+
+    .chat-close {
+      background: transparent;
+      border: none;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+    }
+
+    @media screen and (max-width: 500px) {
+      .support-chat {
+        width: 90%;
+        right: 5%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="live-support">
+  <button class="support-toggle" onclick="toggleChat()">🤖</button>
+  <div class="support-chat" id="supportChat">
+    <div class="chat-header">
+      <div>
+        <h3>AI Dəstək</h3>
+        <div class="ai-indicator">🤖 Bot Aktivdir</div>
+      </div>
+      <button class="chat-close" onclick="toggleChat()">×</button>
+    </div>
+    <div class="chat-body" id="chatBody">
+      <div class="chat-message">
+        <div class="message-bot">👋 Salam! Aşağıdakı suallardan birini seçin:</div>
+      </div>
+      <div class="question-buttons">
+        <button onclick="askBot(1)">1. Bu proqramın mahiyyəti</button>
+        <button onclick="askBot(2)">2. Balımızı necə daxil etməli?</button>
+        <button onclick="askBot(3)">3. İrad və təkliflər</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleChat() {
+    const chat = document.getElementById('supportChat');
+    chat.style.display = chat.style.display === 'flex' ? 'none' : 'flex';
+  }
+
+  function askBot(questionId) {
+    const chatBody = document.getElementById('chatBody');
+    let answer = '';
+
+    switch (questionId) {
+      case 1:
+        answer = `Bu sistemin mahiyyəti ondan ibarətdir ki, abituriyentin cari ildə topladığı bala əsaslanaraq, əvvəlki ilin qəbul statistikası ilə müqayisəli təhlil aparılır və nəticədə potensial qəbul oluna biləcək ali təhsil müəssisələri avtomatlaşdırılmış şəkildə təqdim edilir.
+        <br><br>Qeyd etmək lazımdır ki, universitetlərə qəbul prosesi Dövlət İmtahan Mərkəzi (DİM) tərəfindən, yalnız cari ildə abituriyentin topladığı bala əsasən həyata keçirilir.
+        <br><br>Bu səbəbdən sistemin verdiyi nəticələrdə müəyyən uyğunsuzluq və ya yanlışlıq ehtimalı mövcuddur.`;
+        break;
+      case 2:
+        answer = Ana səhifədə qrpunuzu seçin, blok və buraxılış balınızı daxil edin, sonra "Hesabla" düyməsinə basın.;
+        break;
+      case 3:
+        answer = `Bizə Instagram və ya Gmail vasitəsilə irad və təkliflərinizi bildirə bilərsiniz.
+        <br><br>📩 Gmail: <b>uniazedu@gmail.com</b>
+        <br>📱 Instagram: <b>@uniazedu</b>`;
+        break;
+      default:
+        answer = 'Bağışlayın, bu suala cavab hazır deyil.';
+    }
+
+    const response = `
+      <div class="chat-message">
+        <div class="message-bot">${answer}</div>
+      </div>
+    `;
+
+    chatBody.innerHTML += response;
+    chatBody.scrollTop = chatBody.scrollHeight;
+  }
+</script>
+
+</body>
+</html>
