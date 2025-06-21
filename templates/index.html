@@ -93,23 +93,24 @@
                 <div class="detail-card">
                     <div class="detail-header">
                         <h2>1-ci Qrup</h2>
-                        <p>Riyazi elmlər və mühendislik sahələri</p>
-                    </div>  
-                    <form method="post" action="{% url 'ballar' '1' %}" class="score-form">
+                        <p>Riyazi elmlər və mühəndislik sahələri</p>
+                    </div> 
+                    <form method="post" action="{% url 'ballar' '1' %}" class="score-form" onsubmit="return validateForm('1')">
                         {% csrf_token %}
                         <div class="form-group">
                             <label for="graduation-1">Buraxılış Balı</label>
-                            <input required name="burax" type="number" id="graduation-1" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <input step="any" required name="burax" type="number" id="graduation-1" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
                             <small>Maksimum 300 bal</small>
                             <div class="error-message" id="graduation-error-1"></div>
                         </div>
                         <div class="form-group">
                             <label for="block-1">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
-                            <input required name="blok" type="number" id="block-1" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <input step="any" required name="blok" type="number" id="block-1" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)" onchange="balYoxla(this)">
+                            <div id="mesaj-1"></div>
                             <small>Maksimum 400 bal</small>
                             <div class="error-message" id="block-error-1"></div>
                         </div>
-                
+
                         
                         <div class="form-group">
                         <div class="form-group">
@@ -154,13 +155,14 @@
                         {% csrf_token %}
                         <div class="form-group">
                             <label for="graduation-2">Buraxılış Balı</label>
-                            <input required name="burax" type="number" id="graduation-2" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <input step="any" required name="burax" type="number" id="graduation-2" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
                             <small>Maksimum 300 bal</small>
                             <div class="error-message" id="graduation-error-2"></div>
                         </div>
                         <div class="form-group">
                             <label for="block-2">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
-                            <input required name="blok" type="number" id="block-2" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <input step="any" required name="blok" type="number" id="block-2" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)" onchange="balYoxla(this)">
+                            <div id="mesaj-2"></div>
                             <small>Maksimum 400 bal</small>
                             <div class="error-message" id="block-error-2"></div>
                         </div>
@@ -180,13 +182,14 @@
                 {% csrf_token %}
                 <div class="form-group">
                     <label for="graduation-3">Buraxılış Balı</label>
-                    <input required name="burax" type="number" id="graduation-3" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                    <input step="any" required name="burax" type="number" id="graduation-3" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
                     <small>Maksimum 300 bal</small>
                     <div class="error-message" id="graduation-error-3"></div>
                 </div>
                 <div class="form-group">
                     <label for="block-3">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
-                    <input required name="blok" type="number" id="block-3" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                    <input step="any" required name="blok" type="number" id="block-3" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)" onchange="balYoxla(this)">
+                    <div id="mesaj-3"></div>
                     <small>Maksimum 400 bal</small>
                     <div class="error-message" id="block-error-3"></div>
                 </div>
@@ -233,13 +236,14 @@
                         {% csrf_token %}
                         <div class="form-group">
                             <label for="graduation-4">Buraxılış Balı</label>
-                            <input required name="burax" type="number" id="graduation-4" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <input step="any" required name="burax" type="number" id="graduation-4" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
                             <small>Maksimum 300 bal</small>
                             <div class="error-message" id="graduation-error-4"></div>
                         </div>
                         <div class="form-group">
                             <label for="block-4">Blok Balı (Kodlaşdırma üçün minimum 50 olmalıdır)</label>
-                            <input required name="blok" type="number" id="block-4" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)">
+                            <input step="any" required name="blok" type="number" id="block-4" min="50" max="400" placeholder="Blok balınızı daxil edin (50-400)" onchange="balYoxla(this)">
+                            <div id="mesaj-4"></div>
                             <small>Maksimum 400 bal</small>
                             <div class="error-message" id="block-error-4"></div>
                         </div>
@@ -259,7 +263,7 @@
                         {% csrf_token %}
                         <div class="form-group">
                             <label for="graduation-5">Buraxılış Balı</label>
-                            <input required name="burax" type="number" id="graduation-5" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
+                            <input step="any" required name="burax" type="number" id="graduation-5" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
                             <small>Maksimum 300 bal</small>
                             <div class="error-message" id="graduation-error-5"></div>
                         </div>

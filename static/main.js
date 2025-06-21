@@ -305,3 +305,22 @@ function enableSound() {
                 }
             });
         });
+function balYoxla(input) {
+    const bal = parseInt(input.value);
+    const blockId = input.id.split('-')[1]; // gets the block number (1, 2, 3, or 4)
+    const mesaj = document.getElementById(`mesaj-${blockId}`);
+
+    if (bal >= 1 && bal <= 49) {
+        mesaj.innerHTML = "⚠ Siz ixtisaslaşmaya girə bilməzsiniz!";
+        mesaj.className = "xeberdarliq qirmizi";
+    } else if (bal >= 50 && bal <= 99) {
+        mesaj.innerHTML = "ℹ Siz yalnız 150 ballıq ixtisaslar yazə bilərsiniz!";
+        mesaj.className = "xeberdarliq sari";
+    } else if (bal >= 100) {
+        mesaj.innerHTML = "";
+        mesaj.className = "xeberdarliq yasil";
+    } else {
+        mesaj.innerHTML = "";
+        mesaj.className = "";
+    }
+}

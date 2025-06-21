@@ -20,7 +20,6 @@ def teklif(request):
 def uniler(request):
     return render(request, "uniler.html")
 
-
 def show_scores(request, group):
     results = []
     group_num = group
@@ -29,7 +28,23 @@ def show_scores(request, group):
     if request.method == "POST":
         burax = request.POST.get("burax")
         blok = request.POST.get("blok")
-        total_score = int(burax) + int(blok)
+        
+        if 49 < float(blok) < 100:
+            import json
+            with open("unichat/datas/ballar_150.json", "r", encoding="utf-8") as data:
+                ballar_150 = json.load(data)
+                for qrup in ballar_150:
+                    if qrup == f"group{group}":
+                        data = qrup
+                        
+                data = ballar_150[f"qrup{group}"]
+                context = {
+                    "ixtisaslar": data
+                }
+            return render(request, "ballar_150.html", context=context)
+        
+        total_score = float(burax) + float(blok)
+        total_score = round(total_score, 2)
         import json
 
         with open("unichat/datas/altqrup_1.json", "r", encoding="utf-8") as data:
@@ -111,7 +126,7 @@ def show_scores_5th_group(request):
             )
 
         try:
-            total_score = int(burax)
+            total_score = float(burax)
         except ValueError:
             return render(
                 request,
