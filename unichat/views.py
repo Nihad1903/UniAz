@@ -2,7 +2,20 @@ from django.shortcuts import render
 import os
 from django.conf import settings
 
-qrup_3_altqrup = ["Beynəlxalq münasibətlər", "Regionşünaslıq"]
+qrup_3_altqrup = ["Beynəlxalq münasibətlər", "Regionşünaslıq", "Beynəlxalq münasibətlər (tədris ingilis dilində)",
+                  "Beynəlxalq münasibətlər (tədris türk dilində)", "Regionşünaslıq (Amerika üzrə, tədris ingilis dilində)",
+                  "Regionşünaslıq (Amerika üzrə)", "Regionşünaslıq (Almaniya üzrə)", "Regionşünaslıq(Koreya üzrə)", "Regionşünaslıq(Türkiyə üzrə)",
+                  "Regionşünaslıq (Böyük Britaniya üzrə,tədris ingilis dilində)", "Regionşünaslıq (Yaponiya üzrə)", "Regionşünaslıq (Türkiyə üzrə)",
+                  "Regionşünaslıq (Fransa üzrə)", "Regionşünaslıq (Norveç üzrə)", "Regionşünaslıq (Qafqaz üzrə)", "Regionşünaslıq (Çin üzrə)",
+                  "Regionşünaslıq(İsrailüzrə)", "Regionşünaslıq (Cənubi Amerika üzrə)", "Regionşünaslıq (ərəb ölkələri üzrə)",
+                  "Regionşünaslıq(Pakistan üzrə)", "Regionşünaslıq (Mərkəzi və Şərqi Avropa üzrə)", "Regionşünaslıq (Böyük Britaniya üzrə)",
+                  "Regionşünaslıq(İran üzrə)", "Regionşünaslıq (Rusiya üzrə)", "Regionşünaslıq (Balkan ölkələri üzrə)",
+                  "Regionşünaslıq (Azərbaycan üzrə)", "Regionşünaslıq (İsrail və Yaxın Şərq üzrə)", "Regionşünaslıq (Xəzəryanı ölkələr üzrə)",
+                  "Regionşünaslıq(Amerikaşünaslıq, Avropaşünaslıq, Asiyaşünaslıq, Şərqşünaslıq, tədris ingilis dilində)",
+                  "Regionşünaslıq (Polşa üzrə)", "Regionşünaslıq (Çexiya üzrə)", "Regionşünaslıq (Ukrayna üzrə)", "Regionşünaslıq (Rusiya üzrə)",
+                  "Regionşünaslıq (Belarus üzrə)", "Regionşünaslıq (Pakistan üzrə)", "Regionşünaslıq (ABŞ və Kanada, Avropa ölkələri, Yaxın və Orta Şərq üzrə)",
+                  "Regionşünaslıq (Afrika üzrə)", "Regionşünaslıq (İndoneziya üzrə)", "Regionşünaslıq (Bolqarıstan üzrə)", "Regionşünaslıq (Yunanıstan üzrə)",
+                  "Regionşünaslıq (regionlar üzrə)", "Regionşünaslıq (Avropa ölkələri üzrə)", "Regionşünaslıq (Avropa üzrə)"]
 
 
 def home(request):
