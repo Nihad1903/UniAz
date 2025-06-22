@@ -19,12 +19,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UniAz - Ağıllı Təhsil Platforması</title>
-    <link rel="icon" href="ChatGPT Image 13 Haz 2025 18_48_07.png">
+    <link rel="icon" href="static/ChatGPT Image 13 Haz 2025 18_48_07.png">
     <link rel="stylesheet" href="{% static 'app.css' %}">
     <script src="static/main.js"></script>
 </head>
 {% include 'nav.html' %}
 <body>
+    <style>
+        
+.chat-quick-questions {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.chat-quick-questions button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: left;
+    transition: background 0.3s;
+}
+
+.chat-quick-questions button:hover {
+    background-color: #d9e7ff;
+}
+
+    </style>
     <amp-auto-ads type="adsense"
         data-ad-client="ca-pub-7781818814784424">
 </amp-auto-ads>
@@ -277,7 +302,93 @@
                 </div>
             </div>
         </div>
+        <div class="ads-container">
+        <div class="ads-header">
+            <div class="ads-title">🎯 Reklam Sahəsi</div>
+            <div class="ads-subtitle">Keyfiyyətli xidmətlər və məhsullar</div>
+        </div>
+        
+        <div class="ads-grid">
+            <!-- Sizin informatika reklamınız -->
+            <div class="post-container">
+                <div class="image-section">
+                    <div class="image-placeholder">
+                        <img src="static/elmin_mehdili.png">
+                    </div>
+                </div>
+                <div class="content-section">
+                    <div>
+                        <div class="title">İnformatika Müəllimi</div>
+                        <div class="subtitle">Elmin Mehdili</div>
+                        <div class="subtitle">10-11ci siniflər • Abituriyent</div>
+                        <div class="topics-grid">
+                            <div class="topic-item">
+                                <span class="topic-emoji">📊</span>
+                                <div class="topic-text">Blok<br>sxemlər</div>
+                            </div>
+                            <div class="topic-item">
+                                <span class="topic-emoji">🐍</span>
+                                <div class="topic-text">Python</div>
+                            </div>
+                            <div class="topic-item">
+                                <span class="topic-emoji">🔢</span>
+                                <div class="topic-text">Say<br>sistemləri</div>
+                            </div>
+                            <div class="topic-item">
+                                <span class="topic-emoji">⚙</span>
+                                <div class="topic-text">Alqoritmlər</div>
+                            </div>
+                        </div>
+                        <div class="info-section">
+                            <div class="info-item">
+                                <span class="info-icon">✓</span>
+                                <span>İnformatika fənni üzrə hazırlıq</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-icon">✓</span>
+                                <span>Fərdi yanaşma</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-icon">✓</span>
+                                <span>Əyani və online dərslər</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-icon">✓</span>
+                                <span>Mövzu və ümumi sınaqlar</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-icon">✓</span>
+                                <span>Xüsusi dərs vəsaitləri</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contact-section">
+                        <a href="tel:+994-70-896-36-72" class="contact-btn phone-btn">
+                            📞 Zəng et
+                        </a>
+                        <a href="https://wa.me/994708963672" class="contact-btn whatsapp-btn">
+                            💬 WhatsApp
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-ad">
+                    <div class="footer-text-ad">📞 +994 70 896 36 72</div>
+                    <div class="footer-text-ad">💬 WhatsApp mövcuddur</div>
+                </div>
+            </div>
+
+            <!-- Gələcək reklamlar üçün placeholder-lər -->
+            <div class="ad-placeholder">
+                <div class="ad-placeholder-icon">📢</div>
+                <div class="ad-placeholder-text">Reklam</div>
+                <div class="ad-placeholder-text">Burada sizin reklam ola bilər</div>
+                <div class="ad-placeholder-text">uniazedu@gmail.com</div>
+                
+            </div>
+        </div>
+    </div>
     </main>
+
 
     <div class="live-support">
         <button class="support-toggle" onclick="toggleChat()">🤖</button>
@@ -289,23 +400,10 @@
                 </div>
                 <button class="chat-close" onclick="toggleChat()">×</button>
             </div>
-            <div class="chat-body" id="chatBody">
-                <div class="chat-message">
-                    <div class="message-bot">
-                        👋 Salam! Mən UniAz AI assistentiyəm. Sizə təhsil seçimləri ilə bağlı necə kömək edə bilərəm?
-                    </div>
-                </div>
-                <div class="typing-indicator" id="typingIndicator">
-                    <div class="typing-dots">
-                        <div class="typing-dot"></div>
-                        <div class="typing-dot"></div>
-                        <div class="typing-dot"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="chat-input-area">
-                <input type="text" class="chat-input" id="chatInput" placeholder="Sualınızı yazın..." onkeypress="handleEnter(event)">
-                <button class="chat-send" onclick="sendMessage()">➤</button>
+            <div class="chat-quick-questions">
+                <button onclick="showAnswer(1)">❓ UniAz-ın mahiyyəti</button>
+                <button onclick="showAnswer(2)">❓ Sistem necə istifadə olunur?</button>
+                <button onclick="showAnswer(3)">❓ Reklam üçün necə əlaqə saxlamaq olar?</button>
             </div>
         </div>
     </div>

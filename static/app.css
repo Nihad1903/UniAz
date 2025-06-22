@@ -2455,3 +2455,292 @@
     }
 }
 
+.ads-container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .ads-header {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .ads-title {
+            font-size: 24px;
+            color: #2d3748;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .ads-subtitle {
+            font-size: 14px;
+            color: #718096;
+            margin-bottom: 20px;
+        }
+
+        .ads-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 20px;
+        }
+
+        /* Sizin informatika kartı stilləri */
+        .post-container {
+            width: 100%;
+            max-width: 400px;
+            min-height: 500px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            position: relative;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            transition: transform 0.3s ease;
+            margin: 0 auto;
+        }
+
+        .post-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+        }
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.3);
+    border: 2px dashed rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    z-index: 10;
+    position: relative;
+}
+
+.image-placeholder img {
+    width: 150px; /* və ya istədiyiniz ölçü */
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+        .content-section {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #2d3748;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #5a67d8;
+            text-align: center;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .topics-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .topic-item {
+            background: #f7fafc;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+            border-left: 3px solid #5a67d8;
+            transition: transform 0.2s ease;
+        }
+
+        .topic-item:hover {
+            transform: translateY(-2px);
+        }
+
+        .topic-emoji {
+            font-size: 18px;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .topic-text {
+            font-size: 13px;
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .info-section {
+            background: #edf2f7;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 13px;
+            color: #4a5568;
+        }
+
+        .info-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .info-icon {
+            width: 20px;
+            margin-right: 12px;
+            color: #5a67d8;
+            font-weight: bold;
+        }
+
+        .contact-section {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .contact-btn {
+            flex: 1;
+            padding: 12px;
+            border-radius: 8px;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 600;
+            font-size: 13px;
+            transition: transform 0.2s ease;
+        }
+
+        .contact-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .contact-btn:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .phone-btn {
+            background: #5a67d8;
+            color: white;
+        }
+
+        .whatsapp-btn {
+            background: #38a169;
+            color: white;
+        }
+
+        .footer-ad {
+            background: #2d3748;
+            color: white;
+            padding: 12px;
+            text-align: center;
+            border-radius: 0 0 20px 20px;
+        }
+
+        .footer-text-ad {
+            font-size: 12px;
+            margin-bottom: 3px;
+            font-weight: 500;
+        }
+
+        .footer-text:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Gələcək reklamlar üçün placeholder */
+        .ad-placeholder {
+            width: 100%;
+            max-width: 400px;
+            height: 300px;
+            background: linear-gradient(135deg, #e2e8f0, #cbd5e0);
+            border: 2px dashed #a0aec0;
+            border-radius: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #4a5568;
+            font-size: 16px;
+            text-align: center;
+            margin: 0 auto;
+            transition: all 0.3s ease;
+        }
+
+        .ad-placeholder:hover {
+            background: linear-gradient(135deg, #cbd5e0, #a0aec0);
+            transform: scale(1.02);
+        }
+
+        .ad-placeholder-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+            opacity: 0.7;
+        }
+
+        .ad-placeholder-text {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .ad-placeholder-subtext {
+            font-size: 14px;
+            opacity: 0.8;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .ads-container {
+                margin: 10px;
+                padding: 15px;
+            }
+            
+            .ads-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .post-container {
+                max-width: 100%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .post-container {
+                min-height: 550px;
+            }
+            
+            .content-section {
+                padding: 25px 20px;
+            }
+            
+            .title {
+                font-size: 24px;
+            }
+        }
+        
