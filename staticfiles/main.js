@@ -78,6 +78,7 @@ function enableSound() {
             
             // Seçilmiş qrup səhifəsini göstər
             document.getElementById(`group-${groupNumber}`).classList.add('active');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         // Bal hesablama funksiyası
@@ -163,91 +164,20 @@ function enableSound() {
             document.getElementById('supportChat').classList.toggle('active');
         }
 
-        async function getAIResponse(message) {
-            try {
-                showTyping();
-                const response = await fetch(API_ENDPOINT, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'Authorization': `Bearer ${OPEN_AI_API_KEY}`,
-                        'HTTP-Referer': 'https://unichat.az',
-                        'X-Title': 'UniChat'
-                    },
-                    body: JSON.stringify({
-                        model: 'deepseek/deepseek-r1-0528',
-                        messages: [
-                            { role: 'system', content: SYSTEM_PROMPT },
-                            { role: 'user', content: message }
-                        ],
-                        max_tokens: 500,
-                        temperature: 0.7
-                    })
-                });
+        
+        function showAnswer(id) {
+            const chatBody = document.getElementById("supportChat");
+            const answers = {
+                1: "Bu sistemin mahiyyəti ondan ibarətdir ki, abituriyentin cari ildə topladığı bala əsaslanaraq, əvvəlki ilin qəbul statistikası ilə müqayisəli təhlil aparılır və nəticədə potensial qəbul oluna biləcək ali təhsil müəssisələri avtomatlaşdırılmış şəkildə təqdim edilir. Qeyd etmək lazımdır ki, universitetlərə qəbul prosesi Dövlət İmtahan Mərkəzi (DİM) tərəfindən, yalnız cari ildə abituriyentin topladığı bala əsasən həyata keçirilir. Bu səbəbdən sistemin verdiyi nəticələrdə müəyyən uyğunsuzluq və ya yanlışlıq ehtimalı mövcuddur.",
+                2: "İlk öncə qrup seçilir, bundan sonra altqrupunuzu seçərək balınızı daxil edirsiniz.",
+                3: "Reklam üçün əlaqə: uniazedu@gmail.com"
+            };
 
-                if (!response.ok) {
-                    throw new Error(`API xətası: ${response.status}`);
-                }
-
-                const data = await response.json();
-                return data.choices[0].message.content.trim();
-            } catch (error) {
-                console.error('AI cavabı alınarkən xəta:', error);
-                return 'Üzr istəyirik, texniki səhv baş verdi. Zəhmət olmasa bir az sonra yenidən cəhd edin.';
-            }
-        }
-
-        function sendMessage() {
-            const input = document.getElementById('chatInput');
-            const message = input.value.trim();
-            
-            if (message) {
-                addMessage(message, 'user');
-                input.value = '';
-                
-                // Yazma indikatorunu göstər
-                showTyping();
-                
-                // AI cavabını gecikmə ilə al
-                getAIResponse(message)
-                    .then(response => {
-                        hideTyping();
-                        addMessage(response, 'bot');
-                    })
-                    .catch(error => {
-                        hideTyping();
-                        addMessage('Bağışlayın, bir xəta baş verdi. Zəhmət olmasa yenidən cəhd edin.', 'bot');
-                    });
-            }
-        }
-
-        function addMessage(message, sender) {
-            const chatBody = document.getElementById('chatBody');
-            const messageDiv = document.createElement('div');
-            messageDiv.className = 'chat-message';
-            
-            const messageContent = document.createElement('div');
-            messageContent.className = sender === 'user' ? 'message-user' : 'message-bot';
-            messageContent.textContent = message;
-            
-            messageDiv.appendChild(messageContent);
+            const messageDiv = document.createElement("div");
+            messageDiv.classList.add("chat-message");
+            messageDiv.innerHTML = `<div class="message-bot">${answers[id]}</div>`;
             chatBody.appendChild(messageDiv);
             chatBody.scrollTop = chatBody.scrollHeight;
-        }
-
-        function showTyping() {
-            document.getElementById('typingIndicator').style.display = 'block';
-            document.getElementById('chatBody').scrollTop = document.getElementById('chatBody').scrollHeight;
-        }
-
-        function hideTyping() {
-            document.getElementById('typingIndicator').style.display = 'none';
-        }
-
-        function handleEnter(event) {
-            if (event.key === 'Enter') {
-                sendMessage();
-            }
         }
 
         // Xoş gəldin ekranını başlat
@@ -305,3 +235,22 @@ function enableSound() {
                 }
             });
         });
+function balYoxla(input) {
+    const bal = parseInt(input.value);
+    const blockId = input.id.split('-')[1]; // gets the block number (1, 2, 3, or 4)
+    const mesaj = document.getElementById(`mesaj-${blockId}`);
+
+    if (bal >= 1 && bal <= 49) {
+        mesaj.innerHTML = "⚠ Siz ixtisaslaşmaya girə bilməzsiniz!";
+        mesaj.className = "xeberdarliq qirmizi";
+    } else if (bal >= 50 && bal <= 99) {
+        mesaj.innerHTML = "ℹ Siz yalnız 150 ballıq ixtisaslar yazə bilərsiniz!";
+        mesaj.className = "xeberdarliq sari";
+    } else if (bal >= 100) {
+        mesaj.innerHTML = "";
+        mesaj.className = "xeberdarliq yasil";
+    } else {
+        mesaj.innerHTML = "";
+        mesaj.className = "";
+    }
+}
