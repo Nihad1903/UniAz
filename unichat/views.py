@@ -51,8 +51,11 @@ def show_scores(request, group):
                         data = qrup
                         
                 data = ballar_150[f"qrup{group}"]
+                total = float(burax) + float(blok)
+                total = round(total, 2)
                 context = {
-                    "ixtisaslar": data
+                    "ixtisaslar": data,
+                    "total": total
                 }
             return render(request, "ballar_150.html", context=context)
         
