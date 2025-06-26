@@ -1,7 +1,6 @@
-from django.shortcuts import render,redirect
+from django.shortcuts import render
 import os
 from django.conf import settings
-import json
 
 qrup_3_altqrup = ["Beynəlxalq münasibətlər", "Regionşünaslıq", "Beynəlxalq münasibətlər (tədris ingilis dilində)",
                   "Beynəlxalq münasibətlər (tədris türk dilində)", "Regionşünaslıq (Amerika üzrə, tədris ingilis dilində)",
@@ -26,136 +25,106 @@ def home(request):
 def about(request):
     return render(request, "about.html")
 
+def game(request):
+    return render(request, "game.html")
+
 
 def teklif(request):
     return render(request, "teklif.html")
-
-def game(request):
-    return render(request, 'game.html')
 
 
 def uniler(request):
     return render(request, "uniler.html")
 
-import os
-from django.conf import settings
-from django.shortcuts import render
-
 def show_scores(request, group):
+    results = []
+    group_num = group
+    altqrup = request.POST.get("altqrup")
+
     if request.method == "POST":
         burax = request.POST.get("burax")
         blok = request.POST.get("blok")
-        altqrup = request.POST.get("altqrup", "")
+        
+        if 49 < float(blok) < 100:
+            import json
+            with open("unichat/datas/ballar_150.json", "r", encoding="utf-8") as data:
+                ballar_150 = json.load(data)
+                for qrup in ballar_150:
+                    if qrup == f"group{group}":
+                        data = qrup
+                        
+                data = ballar_150[f"qrup{group}"]
+                total = float(burax) + float(blok)
+                total = round(total, 2)
+                context = {
+                    "ixtisaslar": data,
+                    "total": total
+                }
+            return render(request, "ballar_150.html", context=context)
+        
+        total_score = float(burax) + float(blok)
+        total_score = round(total_score, 2)
+        import json
 
-        try:
-            burax = float(burax)
-            blok = float(blok)
-            total = round(burax + blok, 2)
-            return redirect(f"/ballar-filter/{group}/?total={total}&altqrup={altqrup}")
-        except (TypeError, ValueError):
-            pass
+        with open("unichat/datas/altqrup_1.json", "r", encoding="utf-8") as data:
+            altqrup_data = json.load(data)
 
-    return render(request, "ballar.html", {
-        "total": None,
-        "result": [],
-        "universities": [],
-        "ixtisaslar": [],
-        "group": group
-    })
+        file_path = os.path.join(
+            settings.BASE_DIR, "unichat/datas", f"universitetler_{group_num}qrup.json"
+        )
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for uni_name, majors in data.items():
+            for major in majors:
+                if altqrup == "TC" and (
+                    "Beynəlxalq münasibətlər" not in major["ixtisas"]
+                    and "Regionşünaslıq" not in major["ixtisas"]
+                ):
+                    continue
+                elif altqrup == "DT" and major["ixtisas"] in qrup_3_altqrup:
+                    continue
+                if altqrup == "RI" and major["ixtisas"] not in altqrup_data:
+                    continue
+                elif altqrup == "RK" and major["ixtisas"] in altqrup_data:
+                    continue
+                match = False
 
+                odenissiz = major.get("odenissiz_bali")
+                odenisli = major.get("odenisli_bali")
 
-def filter_scores(request, group):
-    results = []
-    universities_set = set()
-    ixtisaslar_set = set()
+                if odenissiz is None and odenisli is None:
+                    match = True  
+                elif (odenissiz is not None and total_score >= odenissiz) or (
+                    odenisli is not None and total_score >= odenisli
+                ):
+                    match = True
+                else:
+                    match = False
 
-    total_score = request.GET.get("total")
-    altqrup = request.GET.get("altqrup", "")
-    try:
-        total_score = float(total_score)
-    except (TypeError, ValueError):
-        total_score = None
-
-    file_path = os.path.join(settings.BASE_DIR, "unichat/datas", f"universitetler_{group}qrup.json")
-    with open(file_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    # Altqrup məlumatı
-    altqrup_data = []
-    altqrup_path = os.path.join(settings.BASE_DIR, "unichat/datas", "altqrup_1.json")
-    if os.path.exists(altqrup_path):
-        with open(altqrup_path, "r", encoding="utf-8") as altdata:
-            altqrup_data = json.load(altdata)
-
-    for uni_name, majors in data.items():
-        for major in majors:
-            ixtisas = major["ixtisas"].strip()
-
-            if altqrup == "TC" and ("Beynəlxalq münasibətlər" not in ixtisas and "Regionşünaslıq" not in ixtisas):
-                continue
-            elif altqrup == "DT" and ixtisas in []:  # qrup_3_altqrup varsa əlavə et
-                continue
-            elif altqrup == "RI" and ixtisas not in altqrup_data:
-                continue
-            elif altqrup == "RK" and ixtisas in altqrup_data:
-                continue
-
-            odenissiz = major.get("odenissiz_bali")
-            odenisli = major.get("odenisli_bali")
-            match = False
-
-            if total_score is None:
-                match = True
-            elif (odenissiz is None and odenisli is None):
-                match = True
-            elif (odenissiz is not None and total_score >= odenissiz) or (
-                odenisli is not None and total_score >= odenisli):
-                match = True
-
-            if match:
-                universitet = uni_name.strip()
-                eyani_qiyabi = "Əyani" if major["eyani_qiyabi"] == "Ə" else "Qiyabi"
-
-                universities_set.add(universitet)
-                ixtisaslar_set.add(ixtisas)
-
-                results.append({
-                    "universitet": universitet,
-                    "ixtisas": ixtisas,
-                    "eyani_qiyabi": eyani_qiyabi,
-                    "odenissiz": odenissiz,
-                    "odenisli": odenisli,
-                })
-
-    # Filter parametrləri
-    universitet_filter = request.GET.get("universitet", "").lower()
-    ixtisas_filter = request.GET.get("ixtisas", "").lower()
-    eyani_qiyabi_filter = request.GET.get("eyani_qiyabi", "")
-
-    if universitet_filter or ixtisas_filter or eyani_qiyabi_filter:
-        results = [
-            r for r in results
-            if universitet_filter in r["universitet"].lower()
-            and ixtisas_filter in r["ixtisas"].lower()
-            and (eyani_qiyabi_filter == "" or r["eyani_qiyabi"] == eyani_qiyabi_filter)
-        ]
-
-    filtered_sorted_list = sorted(
-        results,
-        key=lambda x: (
-            x["odenissiz"] is None,
-            x["odenissiz"] if x["odenissiz"] is not None else float("inf"),
-        ),
-    )
-
-    context = {
-        "total": total_score,
-        "result": filtered_sorted_list[::-1],
-        "universities": sorted(universities_set),
-        "ixtisaslar": sorted(ixtisaslar_set),
-        "group": group
-    }
-    return render(request, "ballar.html", context)
+                if match:
+                    results.append(
+                        {
+                            "universitet": uni_name,
+                            "ixtisas": major["ixtisas"],
+                            "eyani_qiyabi": (
+                                "Əyani" if major["eyani_qiyabi"] == "Ə" else "Qiyabi"
+                            ),
+                            "odenissiz": odenissiz,
+                            "odenisli": odenisli,
+                        }
+                    )
+        filtered_sorted_list = sorted(
+            results,
+            key=lambda x: (
+                x["odenissiz"] is None,
+                x["odenissiz"] if x["odenissiz"] is not None else float("inf"),
+            ),
+        )
+        context = {
+            "total": total_score,
+            "result": filtered_sorted_list[::-1],  # azalan sıra
+        }
+        return render(request, "ballar.html", context=context)
 
 
 def show_scores_5th_group(request):

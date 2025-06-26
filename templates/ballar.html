@@ -15,48 +15,6 @@
 </head>
 
 <body>
-    <style>
-        .filter-form {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    padding: 16px;
-    background-color: #f8f9fa;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    margin-bottom: 30px;
-}
-
-.filter-form select,
-.filter-form button {
-    padding: 10px 12px;
-    font-size: 14px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #fff;
-    transition: all 0.2s ease-in-out;
-}
-
-.filter-form select:focus,
-.filter-form button:focus {
-    border-color: #007bff;
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0,123,255,0.2);
-}
-
-.filter-form button {
-    background-color: #007bff;
-    color: #fff;
-    font-weight: 500;
-    cursor: pointer;
-    border: none;
-}
-
-.filter-form button:hover {
-    background-color: #0056b3;
-}
-
-    </style>
     <amp-auto-ads type="adsense"
         data-ad-client="ca-pub-7781818814784424">
 </amp-auto-ads>
@@ -67,34 +25,6 @@
         <div class="university-card">
             <h3>Ümumi Balınız</h3>
             <p>{{ total }}</p>
-            <form method="get" action="{% url 'filter_scores' group %}" class="filter-form">
-    {% if total %}
-        <input type="hidden" name="total" value="{{ total }}">
-    {% endif %}
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-        <select name="universitet">
-            <option value="">Universitet seç</option>
-            {% for uni in universities %}
-                <option value="{{ uni }}" {% if request.GET.universitet == uni %}selected{% endif %}>{{ uni }}</option>
-            {% endfor %}
-        </select>
-
-        <select name="ixtisas">
-            <option value="">İxtisas seç</option>
-            {% for ixt in ixtisaslar %}
-                <option value="{{ ixt }}" {% if request.GET.ixtisas == ixt %}selected{% endif %}>{{ ixt }}</option>
-            {% endfor %}
-        </select>
-
-        <select name="eyani_qiyabi">
-            <option value="">Tədris metodu</option>
-            <option value="Əyani" {% if request.GET.eyani_qiyabi == "Əyani" %}selected{% endif %}>Əyani</option>
-            <option value="Qiyabi" {% if request.GET.eyani_qiyabi == "Qiyabi" %}selected{% endif %}>Qiyabi</option>
-        </select>
-
-        <button type="submit">Filtrlə</button>
-    </div>
-</form>
     </div>
         <div class="container">
             <section class="university-section">

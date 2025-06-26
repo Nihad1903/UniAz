@@ -11,5 +11,4 @@ urlpatterns = [
     path('about', views.about, name="about"),
     path('teklif', views.teklif, name="teklif"),
     path('oyun', views.game, name='game'),
-    path("ballar-filter/<int:group>/", views.filter_scores, name="filter_scores"),
 ]
