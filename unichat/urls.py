@@ -9,5 +9,7 @@ urlpatterns = [
     path('ballar/<int:group>/', views.show_scores, name='ballar'),
     path('ballar-5/', views.show_scores_5th_group, name='ballar-5'),
     path('about', views.about, name="about"),
-    path('teklif', views.teklif, name="teklif")
+    path('teklif', views.teklif, name="teklif"),
+    path('oyun', views.game, name='game'),
+    path("ballar-filter/<int:group>/", views.filter_scores, name="filter_scores"),
 ]

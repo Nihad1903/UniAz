@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="az">
+<head>
+    
+    <link rel="icon" href="static/ChatGPT Image 13 Haz 2025 18_48_07.png">
+    <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7781818814784424"
+     crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniChat - Ağıllı Təhsil Platforması</title>
+    <link rel="stylesheet" href="{% static 'app.css' %}">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            padding-top: 80px; /* Space for potential navigation */
+            color: white;
+        }
+
+        .game-header {
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 20px; /* Reduced from 100px */
+        }
+
+        .game-header h1 {
+            font-size: 2.2em;
+            margin-bottom: 20px; /* Reduced from 100px */
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .game-header h1 img {
+            border-radius: 50%;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        }
+
+        .game-stats {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            font-size: 1em;
+            margin-bottom: 20px;
+        }
+
+        .stat-item {
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            min-width: 90px;
+            text-align: center;
+        }
+
+        .game-board {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 4px;
+            max-width: 350px;
+            width: 100%;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+        }
+
+        .card {
+            width: 100%;
+            aspect-ratio: 1;
+            max-width: 65px;
+            max-height: 65px;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.6em;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        }
+
+        .card.flipped {
+            background: linear-gradient(45deg, #ffeaa7, #fab1a0);
+            animation: flip 0.6s ease-in-out;
+        }
+
+        .card.matched {
+            background: linear-gradient(45deg, #00b894, #00cec9);
+            animation: match 0.8s ease-in-out;
+            cursor: default;
+        }
+
+        .card.matched:hover {
+            transform: none;
+        }
+
+        .card-back {
+            background: linear-gradient(45deg, #6c5ce7, #a29bfe);
+            border-radius: 8px;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.6em;
+            color: white;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            font-size: 1em;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: linear-gradient(45deg, #fd79a8, #fdcb6e);
+            color: white;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+            min-width: 120px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .victory-message {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: linear-gradient(45deg, #00b894, #00cec9);
+            padding: 25px;
+            border-radius: 20px;
+            text-align: center;
+            font-size: 1.3em;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            z-index: 1000;
+            display: none;
+            max-width: 90%;
+            width: 300px;
+        }
+
+        @keyframes flip {
+            0% { transform: rotateY(0deg); }
+            50% { transform: rotateY(90deg); }
+            100% { transform: rotateY(0deg); }
+        }
+
+        @keyframes match {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+
+        @keyframes celebrate {
+            0%, 100% { transform: scale(1); }
+            25% { transform: scale(1.1); }
+            50% { transform: scale(0.9); }
+            75% { transform: scale(1.05); }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+                padding-top: 70px;
+            }
+            
+            .game-header {
+                margin-top: 10px;
+            }
+            
+            .game-header h1 {
+                font-size: 1.8em;
+                margin-bottom: 15px;
+            }
+            
+            .game-stats {
+                font-size: 0.9em;
+                gap: 10px;
+            }
+            
+            .stat-item {
+                padding: 6px 12px;
+                min-width: 80px;
+            }
+            
+            .game-board {
+                max-width: 320px;
+                gap: 3px;
+                padding: 12px;
+            }
+            
+            .card {
+                font-size: 1.4em;
+                border-radius: 6px;
+            }
+            
+            .card-back {
+                font-size: 1.4em;
+                border-radius: 6px;
+            }
+            
+            .btn {
+                padding: 8px 16px;
+                font-size: 0.9em;
+                min-width: 100px;
+            }
+            
+            .victory-message {
+                font-size: 1.1em;
+                padding: 20px;
+                width: 280px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding-top: 60px;
+            }
+            
+            .game-header h1 {
+                font-size: 1.6em;
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .game-stats {
+                font-size: 0.8em;
+            }
+            
+            .stat-item {
+                padding: 5px 10px;
+                min-width: 70px;
+            }
+            
+            .game-board {
+                max-width: 280px;
+                gap: 2px;
+                padding: 10px;
+            }
+            
+            .card {
+                font-size: 1.2em;
+            }
+            
+            .card-back {
+                font-size: 1.2em;
+            }
+            
+            .victory-message {
+                width: 250px;
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    {% include 'nav.html' %}
+    <div class="game-header">
+        <br>
+        <br>
+        <h1><img src="static/ChatGPT Image 13 Haz 2025 18_48_07.png" width="60" height="60" alt="Şəkil təsviri"> UniAz Kart Oyunu</h1>
+        <div class="game-stats">
+            <div class="stat-item">
+                <strong>Açılan kart: <span id="moves">0</span></strong>
+            </div>
+            <div class="stat-item">
+                <strong>Vaxt: <span id="time">00:00</span></strong>
+            </div>
+            <div class="stat-item">
+                <strong>Eşlər: <span id="matches">0/12</span></strong>
+            </div>
+        </div>
+    </div>
+
+    <div class="game-board" id="gameBoard"></div>
+
+    <div class="controls">
+        <button class="btn" onclick="refreshGame()">🆕 Yeni Oyun</button>
+    </div>
+    
+    <div class="victory-message" id="victoryMessage">
+        <h2>🎉 Təbriklər!</h2>
+        <p>Oyunu uğurla bitirdiniz!</p>
+        <p>Açılan Kart: <span id="finalMoves"></span></p>
+        <p>Vaxt: <span id="finalTime"></span></p>
+        <button class="btn" onclick="refreshGame()">Yenidən Oyna</button>
+    </div>
+
+    <script>
+        let gameBoard = document.getElementById('gameBoard');
+        let movesElement = document.getElementById('moves');
+        let timeElement = document.getElementById('time');
+        let matchesElement = document.getElementById('matches');
+        let victoryMessage = document.getElementById('victoryMessage');
+
+        let cards = [];
+        let flippedCards = [];
+        let matchedPairs = 0;
+        let moves = 0;
+        let gameTime = 0;
+        let gameTimer;
+        let canFlip = true;
+
+        // Emoji kartları
+        const cardSymbols = [
+            '🎯', '🎲', '🎪', '🎨', '🎭', '🎸', '🎺', '🎻',
+            '🍎', '🍌', '🍇', '🍓', '🍒', '🍑', '🥝', '🍍',
+            '🐶', '🐱', '🐭', '🐹', '🐰', '🦊', '🐻', '🐼',
+            '⚽', '🏀', '🏈', '🎾', '🏐', '🏓', '🏸', '🥅',
+            '🌟', '⭐', '✨', '💫', '🌙', '☀', '🌈', '⚡'
+        ];
+
+        function createCards() {
+            cards = [];
+            // 5x5 = 25 kart, 12 cüt + 1 boş yer
+            let selectedSymbols = cardSymbols.slice(0, 12);
+            
+            // Hər simvoldan 2 ədəd
+            for (let i = 0; i < selectedSymbols.length; i++) {
+                cards.push({
+                    id: i * 2,
+                    symbol: selectedSymbols[i],
+                    matched: false
+                });
+                cards.push({
+                    id: i * 2 + 1,
+                    symbol: selectedSymbols[i],
+                    matched: false
+                });
+            }
+            
+            // Boş yer əlavə et
+            cards.push({
+                id: 999,
+                symbol: '🌟',
+                matched: true,
+                isEmpty: true
+            });
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function renderBoard() {
+            gameBoard.innerHTML = '';
+            
+            cards.forEach((card, index) => {
+                let cardElement = document.createElement('div');
+                cardElement.className = 'card';
+                cardElement.dataset.index = index;
+                
+                if (card.isEmpty) {
+                    cardElement.classList.add('matched');
+                    cardElement.innerHTML = card.symbol;
+                    cardElement.style.background = 'linear-gradient(45deg, #f39c12, #e67e22)';
+                } else if (card.matched) {
+                    cardElement.classList.add('matched');
+                    cardElement.innerHTML = card.symbol;
+                } else if (flippedCards.includes(index)) {
+                    cardElement.classList.add('flipped');
+                    cardElement.innerHTML = card.symbol;
+                } else {
+                    cardElement.innerHTML = '<div class="card-back">❓</div>';
+                }
+                
+                if (!card.matched && !card.isEmpty) {
+                    cardElement.addEventListener('click', () => flipCard(index));
+                }
+                
+                gameBoard.appendChild(cardElement);
+            });
+        }
+
+        function flipCard(index) {
+            if (!canFlip || flippedCards.includes(index) || cards[index].matched || cards[index].isEmpty) {
+                return;
+            }
+
+            flippedCards.push(index);
+            renderBoard();
+
+            if (flippedCards.length === 2) {
+                moves++;
+                movesElement.textContent = moves;
+                canFlip = false;
+
+                setTimeout(() => {
+                    checkMatch();
+                }, 1000);
+            }
+        }
+
+        function checkMatch() {
+            let [first, second] = flippedCards;
+            
+            if (cards[first].symbol === cards[second].symbol) {
+                cards[first].matched = true;
+                cards[second].matched = true;
+                matchedPairs++;
+                matchesElement.textContent = `${matchedPairs}/12`;
+                
+                if (matchedPairs === 12) {
+                    setTimeout(() => {
+                        endGame();
+                    }, 500);
+                }
+            }
+            
+            flippedCards = [];
+            canFlip = true;
+            renderBoard();
+        }
+
+        function startTimer() {
+            gameTimer = setInterval(() => {
+                gameTime++;
+                let minutes = Math.floor(gameTime / 60);
+                let seconds = gameTime % 60;
+                timeElement.textContent = 
+                    `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            }, 1000);
+        }
+
+        function stopTimer() {
+            clearInterval(gameTimer);
+        }
+
+        function startNewGame() {
+            createCards();
+            shuffleArray(cards);
+            
+            flippedCards = [];
+            matchedPairs = 0;
+            moves = 0;
+            gameTime = 0;
+            canFlip = true;
+            
+            movesElement.textContent = '0';
+            timeElement.textContent = '00:00';
+            matchesElement.textContent = '0/12';
+            victoryMessage.style.display = 'none';
+            
+            stopTimer();
+            startTimer();
+            renderBoard();
+        }
+
+        function refreshGame() {
+            location.reload();
+        }
+
+        function endGame() {
+            stopTimer();
+            document.getElementById('finalMoves').textContent = moves;
+            document.getElementById('finalTime').textContent = timeElement.textContent;
+            victoryMessage.style.display = 'block';
+            victoryMessage.style.animation = 'celebrate 1s ease-in-out';
+        }
+
+        // Oyunu başlat
+        startNewGame();
+    </script>
+</body>
+</html>
