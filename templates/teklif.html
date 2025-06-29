@@ -522,7 +522,7 @@
                     <p>Bu demo versiyadadır. Bütün sahələri doldurun və forma göndər düyməsini basın.</p>
                 </div>
 
-                <form id="ideasForm" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                <form id="ideasForm" action="https://formspree.io/f/mzzgynre" method="POST">
                     <div class="form-group">
                         <label for="name">👤 Adınız və Soyadınız</label>
                         <input type="text" id="name" name="name" required placeholder="Məsələn: Əli Məmmədov">
@@ -671,7 +671,6 @@
 
         // Simple demo mode - always works in demo environment
         document.getElementById('ideasForm').addEventListener('submit', function(e) {
-            e.preventDefault();
             
             const submitBtn = document.querySelector('.submit-btn');
             const originalText = submitBtn.innerHTML;
