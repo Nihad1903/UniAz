@@ -6,6 +6,6 @@ class DomainRedirectMiddleware:
 
     def __call__(self, request):
         host = request.get_host()
-        if host == "uniaz.onrender.com":
+        if host == "uniaz.info":
             return HttpResponsePermanentRedirect("https://uniaz.onrender.com" + request.get_full_path())
         return self.get_response(request)
