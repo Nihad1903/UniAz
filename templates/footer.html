@@ -6,19 +6,93 @@
 </head>
 <body>
   <style>
-    .social-link {
-      color: #ffffff;
-      font-size: 24px;
-      margin: 0 10px;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
+    /* Policy Buttons Styles */
+.policy-section {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
 
-    .social-link:hover {
-      color: #007bff;
-    }
+.policy-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 25px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.policy-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.policy-button:hover::before {
+  left: 100%;
+}
+
+.policy-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.policy-button:active {
+  transform: translateY(0);
+}
+
+.policy-button i {
+  font-size: 16px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .policy-section {
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+  }
+
+  .policy-button {
+    padding: 14px 20px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .policy-button {
+    padding: 12px 18px;
+    font-size: 14px;
+  }
+  
+  .policy-button i {
+    font-size: 14px;
+  }
+}
   </style>
-
+  <script>
+function showModal(title, content) {
+  alert(title + '\n\n' + content);
+}
+  </script>
   <footer class="footer">
     <div class="footer-wave"></div>
     <div class="floating-elements">
@@ -26,7 +100,6 @@
       <div class="floating-element"></div>
       <div class="floating-element"></div>
     </div>
-
     <div class="footer-content">
       <div class="footer-grid">
         <div class="footer-section">
@@ -61,8 +134,17 @@
               <i class="fab fa-tiktok"></i>
             </a>
           </div>
+          
+          <!-- Policy Links -->
+          <div class="policy-section">
+            <a href="{% url 'privacy' %}" class="policy-button" onclick="openPrivacyPolicy()">
+              <i class="fas fa-shield-alt"></i> Gizlilik Siyasəti
+            </a>
+            <a href="{% url 'istifadeci_serti' %}" class="policy-button" onclick="openTermsOfService()">
+              <i class="fas fa-file-contract"></i> İstifadəçi Şərtləri
+            </a>
+          </div>
         </div>
-
         <div class="footer-section">
           <h3>📞 Əlaqə</h3>
           <div class="contact-info">
@@ -81,7 +163,6 @@
           </div>
         </div>
       </div>
-
       <div class="footer-bottom">
         <div class="footer-logo">🎓 UniAz</div>
         <div class="footer-copyright">

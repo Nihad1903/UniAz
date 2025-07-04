@@ -28,6 +28,11 @@ def about(request):
 def game(request):
     return render(request, "game.html")
 
+def privacy(request):
+    return render(request, "privacy.html")
+
+def istifadeci_serti(request):
+    return render(request, "istifadeci_serti.html")
 
 def teklif(request):
     return render(request, "teklif.html")

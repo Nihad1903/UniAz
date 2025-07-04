@@ -11,4 +11,6 @@ urlpatterns = [
     path('about', views.about, name="about"),
     path('teklif', views.teklif, name="teklif"),
     path('oyun', views.game, name='game'),
+    path('istifadeci_serti', views.istifadeci_serti, name='istifadeci_serti'),
+    path('privacy', views.privacy, name='privacy')
 ]
