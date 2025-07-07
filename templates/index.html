@@ -113,13 +113,6 @@
                             <p>İncəsənət və yaradıcılıq sahələri</p>
                             <button class="group-btn">Seç</button>
                         </div>
-                        <div class="group-card" onclick="selectGroup(11)">
-                            <div class="group-number">11-illik</div>
-                            <h3>Kollec</h3>
-                            <p>Riyazi elmlər və mühəndislik sahələri,
-                                Sosial elmlər və humanitar sahələr </p>
-                            <button class="group-btn">Seç</button>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -295,30 +288,6 @@
                         <p>İncəsənət və yaradıcılıq sahələri</p>
                     </div>
                     <form method="post" action="{% url 'ballar-5' %}" class="score-form">
-                        {% csrf_token %}
-                        <div class="form-group">
-                            <label for="graduation-5">Buraxılış Balı</label>
-                            <input step="any" required name="burax" type="number" id="graduation-5" min="0" max="300" placeholder="Buraxılış balınızı daxil edin (0-300)">
-                            <small>Maksimum 300 bal</small>
-                            <div class="error-message" id="graduation-error-5"></div>
-                        </div>
-                        <div class="total-score" id="total-5" style="display: none;">
-                            <h3>Ümumi Balınız</h3>
-                            <div class="score-value" id="total-value-5">0</div>
-                        </div>
-                        <button type="submit" class="calculate-btn">Hesabla</button>
-                        <button type="button" class="back-btn" onclick="showHomePage()">Geri Qayıt</button>
-                    </form>
-                </div>
-            </div>
-             <div id="group-11" class="group-detail1">
-                <div class="detail-card">
-                    <div class="detail-header">
-                        <h2>11-illik Kolleclər</h2>
-                        <p>Riyazi elmlər və mühəndislik sahələri,
-                                Sosial elmlər və humanitar sahələr</p>
-                    </div>
-                    <form method="post" action="{% url 'ballar-kollec' %}" class="score-form">
                         {% csrf_token %}
                         <div class="form-group">
                             <label for="graduation-5">Buraxılış Balı</label>
