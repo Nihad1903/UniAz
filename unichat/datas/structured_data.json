@@ -1,0 +1,6889 @@
+{
+    "Azərbaycan Dövlət İqtisad Universitetinin nəznində Azərbaycan Maliyyə-iqtisad Kolleci": [
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 161.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 133.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 179.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 138.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 158.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 130.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 152.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 127.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 148.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 125.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 130.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 122.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 114.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 111.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Bakı Dövlət Universitetinin nəznində iqtisadiyyat və Humanitar Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 113.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 148.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 130.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 108.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 147.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 129.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 147.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 131.7,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 112.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 115.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 112.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 98.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət İqtisad Universitetinin nəznində Qida Sənayesi Kolleci": [
+        {
+            "name": "Marketinq (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 146.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Çörək və unlu qənnadı məmulatlarının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 115.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 99.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ət və ət məhsullarının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 87.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstehlak mallarının ekspertizası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kimyəvi birləşmələrin keyfiyyətinə analitik nəzarət",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 123.9,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Konservləşdirmə və qida konsentratları texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.7,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 135.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 117.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İaşə müəssisələrinin servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 115.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 102.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mehmanxana təsərrüfatının təşkili və idarə edilməsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 141.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kimyəvi birləşmələrin keyfiyyətinə  analitik nəzarət",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 106.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Konservləşdirmə və qida konsentratları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mehmanxana təsərrüfatının təşkili və idarə edilməsi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 94.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 108.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət İqtisad Universitetinin nəznində Sosial-İqtisadi Kollec": [
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 137.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 110.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 151.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 159.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 128.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 149.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 148.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 179.2,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 144.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 120.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 103.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 119.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram  təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 134.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 110.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət Neft və Sənaye Universitetinin nəznində Sənaye və Texnologiya Kolleci": [
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 130.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bələdiyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 148.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Marketinq (sənaye)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 151.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 120.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 154.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Avtomatlaşdırılmış idarəetmə sistemlərinin istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 151.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 115.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 125.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 105.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İnformasiyanın işlənməsinin və idarəetmənin avtomatlaşdırılmış sistemləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 162.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstehlak mallarının ekspertizası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 134.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 163.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 128.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 177.2,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 160.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkəsi avadanlıqlarının təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 116.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poliqrafiya istehsalatının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sənaye avadanlıqlarının quraşdırılması və texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 123.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 105.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Telekommunikasiya və kompüter",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 175.7,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tikiş məmulatlarının və trikotaj istehsalı texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 124.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 101.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 140.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Dekorativ-tətbiqi sənət (zərgərlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 78.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (qrafik dizayn)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 127.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 138.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Telekommunikasiya və kompüter sistemlərinin informasiya təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət Peäaqoji Universiteti nəznində Azərbaycan Dövlət Pedaqoji Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 124.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 112.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İnklüziv təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 124.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 107.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 141.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mədəni kütləvi tədbirlərin təşkilatçısı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 150.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 116.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 137.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 115.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 88.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dekorativ-tətbiqi sənət (bədii keramika, bədii şüşə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 76.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Rəngkarlıq (dekorativ rəngkarlıq, teatr-",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 89.5,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 109.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Rəngkarlıq (dekorativ rəngkarlıq, teatr dekor rəngkarlığı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 59.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Texniki Universitetinin nəzdində Bakı Dövlət Rabitə və Nəqliyyat Kolleci": [
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 154.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Çoxkanallı telekommunikasiya sistemlərinin istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 134.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 113.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 157.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 135.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 115.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 144.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poçt rabitəsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 134.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 114.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Radio, televiziya vasitə və qurğuları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 130.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 108.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vaqon və refrijerator təsərrüfatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 119.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 114.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 108.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 106.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poçt rabitəsi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 103.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Radio, televiziya vasitə və qurğuları",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 94.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vaqon və refrijerator təsərrüfatı",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 87.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "1 nömrəli Bakı Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 161.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 130.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 182.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 146.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Müalicə masajı (gözdən əlillər üçün)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 50.0,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Müalicə masajı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 126.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 172.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 138.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Optometriya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 164.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 132.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "2 nömrəli Bakı Baza Tibb Kolleci": [
+        {
+            "name": "Laboratoriya diaqnostikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 166.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 132.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ortopedik stomatologiya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 167.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 135.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibbi profilaktika",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 162.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 130.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 163.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 130.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 182.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 146.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 174.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 139.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Bakı Xoreoqrafiya Akademiyasının orta ixtisas təhsili pilləsi": [
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, tar, nağara, qarmon)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 83.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universitetinin nəzdində Humanitar Kollec": [
+        {
+            "name": "İnklüziv təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 106.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 137.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kinooperator sənəti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 116.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 88.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mədəni kütləvi tədbirlərin təşkilatçısı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 99.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Muzey işi və abidələrin qorunması",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 127.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 107.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 138.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 114.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm bələdçiliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 138.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aktyor sənəti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 86.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 47.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Bədii yaradıcılıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dekorativ-tətbiqi sənət (bədii xalça)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 64.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (geyim dizaynı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, tar,kamança, violin, nağara)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 66.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Populyar musiqi və caz ifaçılığı (vokal)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Dövlət Rəssamlıq Akademiyası nəznində İncəsənət Kolleci": [
+        {
+            "name": "Dekorativ-tətbiqi sənət (xalça)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 65.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dekorativ-tətbiqi sənət (keramika)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 77.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dekorativ-tətbiqi sənət (bədii toxuculuq)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 63.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (qrafik dizayn)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 59.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (interyer üzrə dizayn)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 121.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (geyim dizaynı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 123.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 69.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Heykəltəraşlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 74.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Qrafika üzrə texnik",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 86.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Rəngkarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Teatr dekor sənəti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 64.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Milli Konservatoriyası nəznində Musiqi Kolleci": [
+        {
+            "name": "Vokal sənəti (klassik vokal,xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Texniki Universitetinin nəznində Bakı Texniki Kolleci": [
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 129.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 110.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 139.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 114.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sənaye avadanlıqlarının quraşdırılması və texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 131.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 104.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qaldırıcı- nəqliyyat, tikinti maşın və avadanlıqlarının texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət Neft və Sənaye Universitetinin nəznində Bakı Neft-Energetika Kolleci": [
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 146.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 120.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik stansiyası və yarımstansiyası avadanlıqlarının quraşdırılması",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 127.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 107.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 135.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 110.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 126.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstilik təchizatı və istilik texnikası avadanlıqları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 125.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İşıq texnikası və işıq mənbələri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 123.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 100.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məişət tullantılarının idarə olunması",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft emalı və neft kimyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 139.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 113.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft və qaz yataqlarında geoloji və geofiziki işlər",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 133.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 108.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft və qaz yataqlarının istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 141.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft-qaz işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 143.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 115.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft-qaz qurğuları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 110.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik stansiyası və yarımstansiyası avadanlıqlarının quraşdırılması",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 97.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 95.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstilik təchizatı və istilik texnikası  avadanlıqları",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 90.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İşıq texnikası və işıq mənbələri",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 90.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məişət tullantılarının idarə olunması",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 88.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft emalı və neft kimyası",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 103.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft və qaz yataqlarında geoloji və geofiziki işlər",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 100.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft və qaz yataqlarının istismarı",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 99.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft-qaz işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 102.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft-qaz qurğuları",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 95.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sənaye və mülki binalarda elektrik  avadanlıqlarının quraşdırılması və istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sənaye və mülki binalarda elektrik",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 90.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Memarlıq və İnşaat Universitetinin nəznində İnşaat Kolleci": [
+        {
+            "name": "Bərpaçı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 95.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Avtomobil yollarının və aerodromların tikintisi və istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 126.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 106.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bina və qurğuların tikintisi və istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Geodeziya və kartoqrafiya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 133.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstilik təchizatı və istilik texnikası avadanlıqları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 121.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 99.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qaz təsərrüfatı qurğularının istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 123.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 105.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Su təsərrüfatı qurğularının istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 119.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Dizayn (interyer dizaynı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 116.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 96.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Azərbaycan Dövlət Dəniz Akademiyasının nəznində Azərbaycan Dənizçilik Kolleci": [
+        {
+            "name": "Elektrik təchizatı (su nəqliyyatında)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 126.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 117.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Gəmi energetik qurğularının istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 136.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Gəmi sürücülüyü",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 140.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Gəmilərin təmiri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 121.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 117.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Naxçıvan Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 147.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 127.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Hərbi feldşer işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.3,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 141.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 125.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ortopedik stomatologiya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 142.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 128.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 158.2,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi Naxçıvan Dövlət Texniki Kolleci",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 132.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 151.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 136.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Gəncə Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 156.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 129.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Laboratoriya diaqnostikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 153.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 128.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 169.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 130.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ortopedik stomatologiya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 150.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 126.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 159.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 131.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibbi profilaktika",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 145.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Gəncə Dövlət Universitetinin nəznində Regional Kollec": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 130.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 116.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 129.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 116.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 116.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 94.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri vəs ervisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.6,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatda avtomatika, telemexanika (nəqliyyat növləri üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.7,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Telekommunikasiya vasitələri və qurğuları",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 105.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tikiş məmulatlarının və trikotaj istehsalı texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vaqon və refrijerator təsərrüfatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 86.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 119.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 109.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 92.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Dizayn (interyer dizaynı, qrafik dizaynı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 100.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (tar, kamança,fortepiano, qarmon, violin, nağara, saz)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 44.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (klassik vokal,xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 113.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatda avtomatika, telemexanika  (nəqliyyat növləri üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 93.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 102.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Qazax Dövlət Sosial-İqtisadi Kolleci": [
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 121.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 95.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 126.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 95.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 109.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poçt rabitəsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 102.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 89.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Su təsərrüfatı qurğularının istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 79.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 73.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 90.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 77.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 104.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 92.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Tovuz Dövlət Sosial-İqtisadi Kolleci": [
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 107.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kommersiya işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 87.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sığorta işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 88.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 100.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 89.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 88.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 86.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 78.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 92.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Ə.Əliyev adına Sumqayıt Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 146.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 123.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 156.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 129.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ortopedik stomatologiya",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 147.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 125.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 161.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 131.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Sumqayıt Dövlət Universitetinin nəznində Sumqayıt Dövlət Texniki Kolleci": [
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 145.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 145.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 142.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 125.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kimyəvi birləşmələrin keyfiyyətinə analitik nəzarət",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 131.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 112.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 112.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Milli Konservatoriyası nəznində Sumqayıt Musiqi Kolleci": [
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, violin, violonçel, ksilofon, fleyta, qoboy, klarnet, valtoma, truba, trombon, tuba, tar, kamança, qanun, saz, balaban, qarmon, nağara)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 58.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Populyar musiqi və caz ifaçılığı (vokal, fortepiano, violin, violonçel, kontrabas, gitara, ksilofon, fleyta, qoboy, klarnet, valtoma, truba, trombon, zərb alətləri, akkordeon, saksofon, tuba, tar, kamança, qanun, saz, balaba)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 54.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (klassik vokal, milli vokal, xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 73.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Quba Dövlət Sosial-İqtisadi Kolleci": [
+        {
+            "name": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 128.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 116.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 87.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Quba Tibb Kolleci": [
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 165.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 140.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 156.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 136.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Şamaxı Dövlət Regional Kolleci": [
+        {
+            "name": "İnklüziv təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 84.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 125.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 100.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 97.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 84.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 116.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 94.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 109.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 94.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 104.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 85.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 97.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poçt rabitəsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Şərabçılıq və qıcqırtma istehsalatının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 76.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 86.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, violin, klarnet, tar, kamança, saz, qarmon, nağara)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 43.9,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, violin,klarnet, tar, kamança, saz, qarmon, nağara)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Mingəçevir Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 142.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Laboratoriya diaqnostikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 137.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 120.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 140.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 143.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 124.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Mingəçevir Turizm Kolleci": [
+        {
+            "name": "Muzey işi və abidələrin qorunması",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 139.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 130.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 108.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqroturizm",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İaşə müəssisələrinin servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 93.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 79.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mehmanxana təsərrüfatının təşkili və idarə edilməsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Rekreasiya, idman və sağlamlıq turizmi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 93.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 84.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm bələdçiliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 102.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 88.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 92.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mehmanxana təsərrüfatının təşkili və idarə edilməsi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 82.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Şəki Tibb Kolleci": [
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 143.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 122.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 138.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Şəki Dövlət Regional Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 90.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 102.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 100.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 96.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 125.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 110.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 120.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 106.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 104.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 97.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühafizə xidməti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 79.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 100.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 87.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, klarnet, violin, qarmon, tar, kamança)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Şuşa Humanitar Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 129.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 115.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 101.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 119.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 103.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 116.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 107.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aşıq sənəti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 61.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, violin, klarnet, tar, qarmon, kamança, nağara, qanun)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 63.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (klassik vokal, xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Ağdam Dövlət Sosial-İqtisadi Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 87.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 104.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 90.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 96.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 95.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 75.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 99.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 92.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 92.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 79.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 73.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 74.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 68.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 72.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 62.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 97.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 87.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 81.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Ağdam Musiqi Kolleci": [
+        {
+            "name": "Aşıq sənəti",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, violin, tar, kamança, qarmon, nağara, qanun, balaban)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 43.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (klassik vokal, xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Ağdaş Dövlət Humanitar Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 72.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 118.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 95.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 78.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 77.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 71.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 67.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 83.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 67.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 81.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 65.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Ağcabədi Pedaqoji Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 89.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 112.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 97.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Telekommunikasiya və kompüter sistemlərinin informasiya təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 105.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 85.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 76.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 72.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 58.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Şirvan Dövlət İqtisadiyyat və Humanitar Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 77.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 96.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 85.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 112.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 90.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 112.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 90.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 86.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 106.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 86.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Energetika və elektroenergetika",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 100.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 88.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 76.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 119.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Neft-qaz işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 105.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 90.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tikiş məmulatlarının və trikotaj istehsalı texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 85.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 76.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Fiziki tərbiyə müəllimliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 72.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 92.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 91.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Energetika və elektroenergetika",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 86.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Bərdə Dövlət İdarəetmə və Texnologiya Kolleci": [
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 75.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 79.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 89.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 79.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Poçt rabitəsi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 88.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 76.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 76.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 77.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 73.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Sabirabad Dövlət Sosial-İqtisadi Kolleci": [
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 81.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 74.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 90.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bələdiyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 77.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 89.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 81.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Göyçay Dövlət İdarəetmə və Texnologiya Kolleci": [
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 106.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 88.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 93.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 74.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemləri və kompleksləri",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 89.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 86.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 77.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bağçılıq və tərəvəzçilik",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 66.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 65.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 80.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 69.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 76.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Lənkəran Tibb Kolleci": [
+        {
+            "name": "Əczaçılıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 140.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 157.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 141.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 119.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Lənkəran Dövlət Universitetinin nəznində Sosial və Aqrar-Texnoloji Kollec": [
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 122.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 114.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 94.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Muzey işi və abidələrin qorunması",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 87.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Marketinq (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 117.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 102.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 129.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 111.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sığorta işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 118.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 102.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Ətraf mühitin mühafizəsi və bərpası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 87.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 114.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 100.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 94.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Meşə və park",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.9,
+                    "is_paid": false
+                },
+                {
+                    "score": 70.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm bələdçiliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 87.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İnstrumental ifaçılıq (fortepiano, tar, kamança, qarmon)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 47.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Vokal sənəti (xanəndəlik)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Astara Pedaqoji Kolleci": [
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 102.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 98.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 105.3,
+                    "is_paid": false
+                },
+                {
+                    "score": 92.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 107.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 84.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 84.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 74.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 82.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "İsmayıllı Dövlət Humanitar və Texnologiya Kolleci": [
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 91.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Çörək və unlu qənnadı məmulatlarının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 80.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 67.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərində proqram təminatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 94.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 102.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 80.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Süd və süd məhsullarının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 70.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 64.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Şərabçılıq və qıcqırtma istehsalatının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 60.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 60.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 80.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 72.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 82.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 68.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Meşə və park",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 69.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 67.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Zootexniklik",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 69.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 64.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 136.6,
+                    "is_paid": false
+                },
+                {
+                    "score": 117.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 83.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Meşə və park",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 75.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 86.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Saatlı Tibb Kolleci": [
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 135.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 118.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Cəlilabad Tibb Kolleci": [
+        {
+            "name": "Mamalıq işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 136.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 121.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Tibb bacısı (qardaşı) işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 135.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 117.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Masallı Dövlət Regional Kolleci": [
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 99.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kitabxana işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 84.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 112.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 100.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 87.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 69.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Meşə və park",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 71.2,
+                    "is_paid": false
+                },
+                {
+                    "score": 65.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 92.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 81.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Respublikası Dini Qurumlarla İş üzrə Dövlət Komitəsinin Bakı ilahiyyat institutunun yanında Bakı ilahiyyat Kolleci": [
+        {
+            "name": "Dini mənəvi xidmət",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Azərbaycan Dövlət Aqrar Universitetinin nəznində Gəncə Dövlət Aqrar Kolleci": [
+        {
+            "name": "Balıq və balıq məhsullarının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 50.0,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Elektrik təchizatı (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 89.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyat vasitələrinin texniki istismarı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 96.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Şərabçılıq və qıcqırtma istehsalatının texnologiyası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 67.4,
+                    "is_paid": false
+                },
+                {
+                    "score": 70.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqrar (fermer) təsərrüfatının təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 85.8,
+                    "is_paid": false
+                },
+                {
+                    "score": 86.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Aqronomluq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.5,
+                    "is_paid": false
+                },
+                {
+                    "score": 85.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bağçılıq və tərəvəzçilik",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 74.1,
+                    "is_paid": false
+                },
+                {
+                    "score": 71.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Baytarlıq",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.7,
+                    "is_paid": false
+                },
+                {
+                    "score": 93.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "İstixana təsərrüfatı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 50.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 64.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Meşə və park",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 50.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 73.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 113.4,
+                    "is_paid": false
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Zootexniklik",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 50.0,
+                    "is_paid": false
+                },
+                {
+                    "score": 65.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Bakı Biznes və Kooperasiya Kolleci": [
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 91.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 91.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 108.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 103.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bələdiyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bələdiyyə işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 92.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kommersiya işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kommersiya işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 106.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 106.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Marketinq (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Marketinq (sahələr üzrə)",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 94.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 101.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 102.9,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sığorta işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.2,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sığorta işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 95.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 99.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 97.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 99.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 92.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 105.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkələri və şəbəkə inzibatçılığı",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 103.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 97.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Qida məhsullarının təhlükəsizliyi",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 91.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Nəqliyyatın logistikası",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 91.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 91.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 90.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ],
+    "Odlar Yurdu Kolleci": [
+        {
+            "name": "Ailə və ev təhsili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Məktəbəqədər təhsil",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 110.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 106.8,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bələdiyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 97.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 111.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Marketinq (sahələr üzrə)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 99.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 102.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.7,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter sistemlərinin təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 99.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Kompüter şəbəkəsi avadanlıqlarının təmiri və servisi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 96.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sosial iş",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 97.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 95.6,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Turizm işinin təşkili",
+            "mode": "Qiyabi",
+            "scores": [
+                {
+                    "score": 93.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Dizayn (interyer dizaynı, qrafik dizaynı, modelyer dizaynı)",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 40.0,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": true
+        }
+    ],
+    "Bakı Avrasiya Kolleci": [
+        {
+            "name": "Kargüzarlıq və arxiv işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 89.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Bank işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 107.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Maliyyə işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 109.1,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Mühasibat uçotu",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 103.4,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Sığorta işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 98.5,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        },
+        {
+            "name": "Vergi işi",
+            "mode": "Əyani",
+            "scores": [
+                {
+                    "score": 100.3,
+                    "is_paid": true
+                }
+            ],
+            "has_exam": false
+        }
+    ]
+}

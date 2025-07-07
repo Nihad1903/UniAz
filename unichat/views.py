@@ -212,3 +212,85 @@ def show_scores_5th_group(request):
         return render(request, "ballar.html", context=context)
 
     return render(request, "ballar.html")
+
+
+def show_scores_kollec(request):
+    import json
+    import os
+    from django.conf import settings
+    from django.shortcuts import render
+
+    results = []
+
+    if request.method == "POST":
+        burax = request.POST.get("burax")
+
+        if not burax:
+            return render(
+                request, "ballar.html", {"error": "Buraxılış balı daxil edilməyib."}
+            )
+
+        try:
+            total_score = float(burax)
+        except ValueError:
+            return render(
+                request,
+                "ballar.html",
+                {"error": "Buraxılış balı düzgün formatda deyil."},
+            )
+
+        file_path = os.path.join(
+            settings.BASE_DIR, "unichat/datas", "structured_data.json"
+        )
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        for college_name, majors in data.items():
+            for major in majors:
+                odenissiz_bali = None
+                odenisli_bali = None
+
+                for score_entry in major.get("scores", []):
+                    if score_entry["is_paid"]:
+                        if odenisli_bali is None or score_entry["score"] < odenisli_bali:
+                            odenisli_bali = score_entry["score"]
+                    else:
+                        if odenissiz_bali is None or score_entry["score"] < odenissiz_bali:
+                            odenissiz_bali = score_entry["score"]
+
+                if odenissiz_bali is None and odenisli_bali is None:
+                    match = True
+                elif (odenissiz_bali is not None and total_score >= odenissiz_bali) or (
+                    odenisli_bali is not None and total_score >= odenisli_bali
+                ):
+                    match = True
+                else:
+                    match = False
+
+                if match:
+                    results.append({
+                        "universitet": college_name,
+                        "ixtisas": major["name"],
+                        "eyani_qiyabi": major["mode"],
+                        "odenissiz": odenisli_bali,
+                        "odenisli": odenissiz_bali,
+                    })
+
+        filtered_sorted_list = sorted(
+            results,
+            key=lambda x: (
+                x["odenissiz"] is None,
+                x["odenissiz"] if x["odenissiz"] is not None else float("inf"),
+            ),
+        )
+
+        context = {
+            "total": total_score,
+            "result": filtered_sorted_list[::-1],
+        }
+
+        return render(request, "ballar.html", context=context)
+
+    return render(request, "ballar.html")
+
