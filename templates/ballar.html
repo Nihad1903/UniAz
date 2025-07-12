@@ -15,6 +15,261 @@
 </head>
 
 <body>
+    <div class="uniaz-promo-card">
+    <div class="uniaz-inner-content">
+        <div class="uniaz-urgent-label"><h1>TƏLƏS!</h1></div>
+        
+        <div class="uniaz-heading-text">
+            İxtisas seçimi üçün vaxt azalır!
+        </div>
+        
+        <div class="uniaz-question-text">
+            Sən hələ də ixtisas seçimi üçün müəllim tapmamısan?
+        </div>
+        
+        <div class="uniaz-brand-name">UniAz</div>
+        
+        <div class="uniaz-description-text">
+            UniAz olaraq biz abituriyentlərimizə ixtisas seçimində peşəkar müəllim tapmaq üçün yardım edirik. Bizə müraciət edin, biz sizi peşəkar kodlaşdırma müəlliminə yönəldək.
+        </div>
+        
+        <div class="uniaz-contact-section">
+            <div class="uniaz-contact-header">📞 Əlaqə</div>
+            
+            <div class="uniaz-contact-row">
+                <div class="uniaz-contact-symbol">🌐</div>
+                <span>uniaz.info</span>
+            </div>
+            
+            <div class="uniaz-contact-row">
+                <div class="uniaz-contact-symbol">📧</div>
+                <span>uniazedu@gmail.com</span>
+            </div>
+            
+            <div class="uniaz-contact-row">
+                <div class="uniaz-contact-symbol">📱</div>
+                <span>+994 77 350 33 31</span>
+            </div>
+            
+            <div class="uniaz-contact-row">
+                <div class="uniaz-contact-symbol">☎️</div>
+                <span>+994 70 859 50 77</span>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .uniaz-promo-card {
+    background: #ffffff;
+    border: 2px solid #e3f2fd;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 1000px;
+    margin-top: 50px;
+    width: 100%;
+    box-shadow: 0 8px 25px rgba(25, 118, 210, 0.1);
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.uniaz-promo-card::before {
+    display: none;
+}
+
+.uniaz-inner-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    color: #1565c0;
+}
+
+.uniaz-urgent-label {
+    background: linear-gradient(45deg, #ffffff, #ffffff);
+    color: rgb(0, 0, 0);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.uniaz-heading-text {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    line-height: 1.4;
+    color: #0d47a1;
+}
+
+.uniaz-question-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: #424242;
+}
+
+.uniaz-brand-name {
+    font-size: 24px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #1976d2, #2196f3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 12px;
+}
+
+.uniaz-description-text {
+    font-size: 23px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #37474f;
+}
+
+.uniaz-contact-section {
+    background: linear-gradient(135deg, #e8f4fd, #e3f2fd);
+    border: 1px solid #bbdefb;
+    border-radius: 12px;
+    padding: 18px;
+    margin-top: 18px;
+}
+
+.uniaz-contact-header {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #0d47a1;
+}
+
+.uniaz-contact-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 17px;
+    color: #1565c0;
+}
+
+.uniaz-contact-symbol {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    background: linear-gradient(45deg, #2196f3, #42a5f5);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    color: white;
+}
+
+.uniaz-action-btn {
+    background: linear-gradient(45deg, #1976d2, #1565c0);
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(25, 118, 210, 0.3);
+}
+
+.uniaz-action-btn:hover {
+    background: linear-gradient(45deg, #1565c0, #0d47a1);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(25, 118, 210, 0.4);
+}
+
+@keyframes uniaz-float-animation {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+}
+
+@keyframes uniaz-pulse-animation {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+}
+
+@keyframes uniaz-rotate-animation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 480px) {
+    .uniaz-promo-card {
+        padding: 15px;
+        margin: 10px auto;
+        max-width: 95%;
+    }
+    
+    .uniaz-heading-text {
+        font-size: 16px;
+    }
+    
+    .uniaz-brand-name {
+        font-size: 20px;
+    }
+    
+    .uniaz-question-text {
+        font-size: 14px;
+    }
+    
+    .uniaz-description-text {
+        font-size: 13px;
+    }
+    
+    .uniaz-contact-row {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 320px) {
+    .uniaz-promo-card {
+        padding: 12px;
+        max-width: 98%;
+    }
+    
+    .uniaz-heading-text {
+        font-size: 14px;
+    }
+    
+    .uniaz-brand-name {
+        font-size: 18px;
+    }
+    
+    .uniaz-contact-row {
+        font-size: 12px;
+    }
+}
+        
+.chat-quick-questions {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.chat-quick-questions button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: left;
+    transition: background 0.3s;
+}
+
+.chat-quick-questions button:hover {
+    background-color: #d9e7ff;
+}
+
+</style>
     <amp-auto-ads type="adsense"
         data-ad-client="ca-pub-7781818814784424">
 </amp-auto-ads>
